@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>FR - Blog ecommerce par PrestaShop</title>
+	<atom:link href="http://www.prestashop.com/blog/fr/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.prestashop.com/blog/fr</link>
+	<description></description>
+	<lastBuildDate>Thu, 04 Jun 2015 15:08:56 +0000</lastBuildDate>
+	<language>fr-FR</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8.1</generator>
+	<item>
+		<title>[Étude de cas] Comment booster facilement votre taux de conversion avec la personnalisation ?</title>
+		<link>https://www.prestashop.com/blog/fr/etude-cas-comment-booster-facilement-taux-conversion-personnalisation/</link>
+		<comments>https://www.prestashop.com/blog/fr/etude-cas-comment-booster-facilement-taux-conversion-personnalisation/#comments</comments>
+		<pubDate>Thu, 04 Jun 2015 12:17:13 +0000</pubDate>
+		<dc:creator><![CDATA[Kate Robinson]]></dc:creator>
+				<category><![CDATA[Partenaires PrestaShop]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=18778</guid>
+		<description><![CDATA[<p>Dans l&#8217;article d&#8217;aujourd&#8217;hui, le partenaire de PrestaShop, Nosto, explique comment la boutique Planet Fitness s&#8217;est appuyée sur la personnalisation pour améliorer son taux de conversion. Saviez-vous que pour 84 € dépensés pour acquérir des visiteurs, moins de 1 € est consacré à leur conversion en clients ? En réalité, dans le monde de l&#8217;e-commerce, nous [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/etude-cas-comment-booster-facilement-taux-conversion-personnalisation/">[Étude de cas] Comment booster facilement votre taux de conversion avec la personnalisation ?</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><span style="font-style:italic">Dans l&rsquo;article d&rsquo;aujourd&rsquo;hui, le partenaire de PrestaShop, Nosto, explique comment la boutique Planet Fitness s&rsquo;est appuyée sur la personnalisation pour améliorer son taux de conversion.</span></p>
+<p>Saviez-vous que pour 84 € dépensés pour acquérir des visiteurs, moins de 1 € est consacré à leur conversion en clients ?</p>
+<p>En réalité, dans le monde de l&rsquo;e-commerce, nous avons tendance à penser qu&rsquo;un taux de conversion supérieur à 3 % est satisfaisant. Pourtant, pour un magasin physique, un tel taux serait catastrophique.<br />
+<span id="more-18778"></span><br />
+Aujourd&rsquo;hui, les commerçants allouent en moyenne 90 % de leur budget marketing à la redirection de trafic vers leur boutique, que ce soit en utilisant l&rsquo;optimisation pour les moteurs de recherche, le paiement par clic, le marketing d&rsquo;affiliation ou les réseaux sociaux. Que se passe-t-il alors, lorsque suite à vos coûteux efforts, les visiteurs tant attendus arrivent sur votre site ? Pour la plupart des boutiques en ligne, rien. Indépendamment de leur localisation, de leurs préférences et de leurs habitudes d&rsquo;achat, les visiteurs voient tous les mêmes articles. Ils ne sont pas considérés comme des individus ayant des besoins et des attentes spécifiques.</p>
+<p>Transposons la situation dans le monde réel : vous n&rsquo;appréciez pas les vendeurs trop pressants qui ne vous laissent pas étudier les produits tranquillement ; c&rsquo;est normal. Mais comment réagiriez-vous si ces vendeurs vous ignoraient complètement ? J&rsquo;imagine, à juste titre, que vous passeriez votre chemin.</p>
+<p>Pourtant, les choses pourraient être différentes. Comme il est désormais possible de réunir et d&rsquo;exploiter de plus en plus de données sur les comportements de consommation, les marques ont commencé à renforcer leurs relations avec leurs clients en utilisant de nombreuses approches différentes. Accessible aux PME depuis peu, la personnalisation est l&rsquo;une des plus intéressantes et prometteuses.</p>
+<p>Pour certains, cette technique a déjà fait ses preuves : Planet Fitness, leader du marché des équipements professionnels dans le secteur du fitness, est une entreprise innovante qui a eu recours à la personnalisation pour booster ses ventes.</p>
+<p>Et les résultats ne se sont pas fait attendre ! Depuis l&rsquo;introduction des recommandations personnalisées dans la boutique en ligne, le taux de conversion a augmenté de façon spectaculaire (68 %), le montant moyen de commande a grimpé de 12 % et les visiteurs restent 70 % plus longtemps sur le site. Parallèlement, l&rsquo;utilisateur final reste au cœur du processus.</p>
+<p>Comment vous inspirer de cette réussite ?</p>
+<ul style="padding-left:30px">
+<li>Sur votre page d&rsquo;accueil, ajoutez une liste des produits les plus populaires la semaine précédente. Vous mettez ainsi l&rsquo;accent sur les produits les plus vendus de votre catalogue (en capitalisant sur les tendances actuelles), et incitez vos clients à explorer votre boutique pour acheter plus d&rsquo;articles de votre offre inégalée ! Lorsque Planet Fitness a franchi le pas et implémenté cette fonctionnalité, son taux de conversion a atteint le chiffre impressionnant de 6,1 %…</li>
+<li>Certes, nous vivons à un rythme effréné, mais n&rsquo;oubliez pas que vos clients aussi. Ne les obligez pas à parcourir vos articles, page par page : ajoutez la liste de vos meilleures ventes aux pages de catégories de votre site. Vous améliorerez ainsi l&rsquo;expérience de navigation en mettant en avant une sélection de chacune de vos catégories de produits. Pour Fitness Planet, l&rsquo;ajout d&rsquo;une telle liste a permis d&rsquo;augmenter le temps de navigation sur le site de 70 % et le nombre d&rsquo;articles consultés de 96 %.</li>
+<li>L&rsquo;historique de navigation d&rsquo;un client est un formidable indicateur qui vous aide à savoir ce qu&rsquo;il cherche. Ajoutez des recommandations basées sur l&rsquo;historique de navigation à vos pages de catégories pour permettre une navigation aisée et visuelle sur votre site. Vos clients seront ainsi tentés d&rsquo;acheter les articles qui les intéressent, mais également de réexaminer d&rsquo;autres articles avant de procéder au paiement. Si vous ajoutez également ces recommandations à votre page de recherche, ils ne pourront plus oublier ce qu&rsquo;ils recherchaient.</li>
+<li>N&rsquo;échouez pas face au dernier obstacle : si un client consulte son panier, cela ne signifie pas forcément qu&rsquo;il n&rsquo;est plus susceptible d&rsquo;acheter d&rsquo;autres articles. Sur la page panier de votre site, ajoutez des recommandations basées sur les articles du panier pour encourager les achats de dernière minute. Pour un maximum d&rsquo;efficacité, mettez en avant les articles les plus pertinents par rapport à ceux qui se trouvent dans le panier de votre client. Grâce à cette fonctionnalité, Planet Fitness a enregistré un taux de conversion de 7,3 %.</li>
+</ul>
+<p>En bref, la personnalisation permet aux commerçants de répondre aux besoins et aux attentes de chaque client plus rapidement et plus efficacement que jamais. En proposant le contenu le plus pertinent à vos clients à toutes les étapes du parcours d&rsquo;achat, vous améliorez leur satisfaction et leur fidélité, tout en boostant votre taux de conversion et vos ventes. Que demander de plus ?</p>
+<p><a href="http://support.nosto.com/wp-content/uploads/2015/05/Planet-Fitness-FR-WEB.pdf" target="_blank">Vous souhaitez découvrir la personnalisation en pratique ? Apprenez-en davantage sur la collaboration entre Nosto, partenaire de PrestaShop, et Planet Fitness</a>.</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/etude-cas-comment-booster-facilement-taux-conversion-personnalisation/">[Étude de cas] Comment booster facilement votre taux de conversion avec la personnalisation ?</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/etude-cas-comment-booster-facilement-taux-conversion-personnalisation/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Téléchargez gratuitement le livre blanc des avis clients e-commerce</title>
+		<link>https://www.prestashop.com/blog/fr/telechargez-gratuitement-livre-blanc-avis-clients-e-commerce/</link>
+		<comments>https://www.prestashop.com/blog/fr/telechargez-gratuitement-livre-blanc-avis-clients-e-commerce/#comments</comments>
+		<pubDate>Tue, 02 Jun 2015 07:39:14 +0000</pubDate>
+		<dc:creator><![CDATA[Camille Sila]]></dc:creator>
+				<category><![CDATA[Partenaires PrestaShop]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=18771</guid>
+		<description><![CDATA[<p>Les avis clients sont indispensables à toute entreprise e-commerce qui souhaite créer une relation de confiance avec ses clients. Savez-vous par exemple que 88% des internautes se renseignent sur votre boutique avant l’acte d’achat (voir l’étude IFOP à ce sujet) ? Il suffit pour cela de tester les résultats Google en tapant “avis + nom [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/telechargez-gratuitement-livre-blanc-avis-clients-e-commerce/">Téléchargez gratuitement le livre blanc des avis clients e-commerce</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Les avis clients sont indispensables à toute entreprise e-commerce qui souhaite créer une relation de confiance avec ses clients. Savez-vous par exemple que <strong>88% des internautes se renseignent sur votre boutique avant l’acte d’achat</strong> (<a href="http://www.emarketerz.fr/infographie-e-reputation-e-commerce/" target="_blank">voir l’étude IFOP à ce sujet</a>) ? Il suffit pour cela de tester les résultats Google en tapant “avis + nom de votre boutique”.</p>
+<p>Face à ce constat, il est évident que la stratégie autour des avis consommateurs doit être une priorité pour tous les e-marchands. Voilà pourquoi nous avons décidé de publier <strong>ce livre blanc dédié aux avis clients en partenariat avec Truspilot</strong>, de manière à vous donner l’ensemble des bonnes pratiques pour réussir votre stratégie d’e-réputation. En plus d’augmenter votre taux de conversion et le panier moyen de vos ventes en affichant les avis directement sur votre site (panier d’achat, homepage etc), les avis clients collectés via une plateforme vous permettent d’identifier rapidement les clients insatisfaits, et de trouver une solution pour les fidéliser.</p>
+<p>Le livre blanc avis clients et e-réputation s’articule autour de ces différents sujets :</p>
+<ul style="padding-left:30px">
+<li>Trustonomics : La valeur réelle des avis clients</li>
+<li>Les chiffres clés des avis en ligne</li>
+<li>Comment transformer les avis négatifs en clients ?</li>
+<li>5 questions à se poser avant de choisir une plateforme d’avis clients</li>
+</ul>
+<p>Ce livre blanc d’une vingtaine de pages vous permettra d’avoir une vue complète des avis consommateurs et de leur importance pour votre boutique e-commerce. Il vous donnera également les clés pour réussir votre stratégie d’e-réputation afin de créer une relation de confiance avec vos acheteurs, booster vos ventes et vos conversions. </p>
+<p style="text-align:center"><a href="http://www.prestashop.com/fr/livre-blanc-avis-clients" style="font-weight:bold">Téléchargez le livre blanc des avis clients →</a></p>
+<p>A propos : PrestaShop est partenaire de la solution d’avis clients Trustpilot, plateforme leader en Europe et présent dans 24 pays. Dans le cadre de ce partenariat, vous pouvez profiter d’un <a href="http://business.trustpilot.fr/signup?utm_campaign=LivreBlanc-Prestashop&amp;utm_medium=blog&amp;utm_source=Prestashop" target="_blank">essai gratuit Trustpilot sans engagement</a> pour collecter des avis et booster votre e-réputation.</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/telechargez-gratuitement-livre-blanc-avis-clients-e-commerce/">Téléchargez gratuitement le livre blanc des avis clients e-commerce</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/telechargez-gratuitement-livre-blanc-avis-clients-e-commerce/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Pourquoi vous ne manquerez pas le PrestaShop Day !</title>
+		<link>https://www.prestashop.com/blog/fr/manquerez-pas-prestashop-day/</link>
+		<comments>https://www.prestashop.com/blog/fr/manquerez-pas-prestashop-day/#comments</comments>
+		<pubDate>Thu, 28 May 2015 08:55:42 +0000</pubDate>
+		<dc:creator><![CDATA[Kate Robinson]]></dc:creator>
+				<category><![CDATA[Actualités PrestaShop]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=18764</guid>
+		<description><![CDATA[<p>Toute l’équipe PrestaShop est mobilisée en ce moment-même pour vous organiser le plus bel événement de l’année, le PrestaShop Day ! PrestaShop mise sur les valeurs de l’open source et de la collaboration depuis sa création en 2007. Notre succès, c’est avant tout le succès des e-commerçants, rendu possible grâce à notre communauté de 800,000 [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/manquerez-pas-prestashop-day/">Pourquoi vous ne manquerez pas le PrestaShop Day !</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Toute l’équipe PrestaShop est mobilisée en ce moment-même pour vous organiser le plus bel événement de l’année, le PrestaShop Day !</p>
+<p>PrestaShop mise sur les valeurs de l’open source et de la collaboration depuis sa création en 2007. Notre succès, c’est avant tout le succès des e-commerçants, rendu possible grâce à notre communauté de 800,000 membres à travers le monde, qui contribue sans cesse à l’évolution du logiciel et au partage des bonnes pratiques.<br />
+<span id="more-18764"></span><br />
+Afin de remercier les e-commerçants, développeurs, agences web et les partenaires qui nous permettent de progresser, nous sommes fiers de vous inviter à une journée entièrement conçue pour vous, pour vous aider à grandir. Nous avons invité des pointures de l’e-commerce, du web et de l’open source afin qu’ils puissent partager avec vous leur vision et expertise; tables rondes, ateliers et conférences aborderont stratégie, conseils et bonnes pratiques.</p>
+<p>Nous avons toujours cru en l’open source et en notre communauté. Le PrestaShop Day est l’occasion pour nous de vous remercier en vous partageant les clés du succès. Nous espérons vous avoir à nos côtés le 11 juin prochain à Paris !</p>
+<p><a href="http://www.plus-de-bulles.com/" target="_blank">Plus de Bulles</a>, marchand PrestaShop, vous offrira le champagne lors du cocktail de clôture de l’événement !</p>
+<p>Inscrivez-vous gratuitement avec le code SoColissimoPSDAY sur le site du <a href="http://www.prestashopday.com/fr/" target="_blank">PrestaShop Day</a> !</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/manquerez-pas-prestashop-day/">Pourquoi vous ne manquerez pas le PrestaShop Day !</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/manquerez-pas-prestashop-day/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Maptiteculotte.com, un concept original à l’origine d’une Success Story</title>
+		<link>https://www.prestashop.com/blog/fr/maptiteculotte-com-concept-original-lorigine-dune-success-story/</link>
+		<comments>https://www.prestashop.com/blog/fr/maptiteculotte-com-concept-original-lorigine-dune-success-story/#comments</comments>
+		<pubDate>Mon, 25 May 2015 08:30:54 +0000</pubDate>
+		<dc:creator><![CDATA[Camille Sila]]></dc:creator>
+				<category><![CDATA[Success Story]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=18753</guid>
+		<description><![CDATA[<p>Charline Goutal, passionnée de lingerie et entrepreneure dans l’âme, a très vite repéré une brèche dans son secteur de prédilection. « Je recherchais une lingerie qui correspondait à mes envies de tous les jours mais je me suis heurtée à une offre limitée aux petites culottes classiques en coton, pas vraiment esthétiques&#8230; » L’idée de [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/maptiteculotte-com-concept-original-lorigine-dune-success-story/">Maptiteculotte.com, un concept original à l’origine d’une Success Story</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Charline Goutal, passionnée de lingerie et entrepreneure dans l’âme, a très vite repéré une brèche dans son secteur de prédilection. « Je recherchais une lingerie qui correspondait à mes envies de tous les jours mais je me suis heurtée à une offre limitée aux petites culottes classiques en coton, pas vraiment esthétiques&#8230; » L’idée de Maptiteculotte.com est née : offrir des pièces de qualité, adaptées au besoin de confort quotidien, avec un style original correspondant à une personnalité, une humeur. Susciter la complicité par le sourire… en voilà une belle idée !<br />
+<span id="more-18753"></span></p>
+<h2 style="color: #2c2c2c;">Toujours bien entouré avec PrestaShop</h2>
+<h4 style="color: #ea513f;">Problématique</h4>
+<p>Trouver les bons partenaires pour construire son projet n’est pas toujours facile, Charline en a fait l’amère expérience. Mal conseillée, elle a lancé la première version de son site avec une plateforme aucunement adaptée à ses besoins. Tout le site était à refaire, heureusement, Charline a bénéficié de la bourse French Tech qui lui a permis de reconstruire une boutique avec une nouvelle solution.</p>
+<h4 style="color: #ea513f;">Challenges</h4>
+<p>Charline n’avait plus le droit à l’erreur, elle devait choisir une solution e-commerce qui facilite la gestion quotidienne de sa boutique et qui ne la bride pas dans ses projets d’évolution. Son concept reposant sur la retranscription d’un univers fort, il lui fallait également trouver l’agence web capable de donner vie à sa boutique telle qu’elle l’avait imaginée.</p>
+<h4 style="color: #ea513f;">Résultats</h4>
+<p>« Finalement la recette du succès c’est de savoir bien s’entourer. Cela implique de choisir une solution e-commerce performante telle que PrestaShop mais aussi d’être accompagné d’une agence web, d’un freelance ou d’un associé compétent et à l’écoute. J’ai choisi de travailler avec une agence partenaire PrestaShop reconnue dans le milieu e-commerce : NewQuest. Aujourd’hui, je suis fière de ma boutique et j’apprécie au quotidien la simplicité d’utilisation de PrestaShop et toutes ses fonctionnalités qui répondent parfaitement à mes besoins actuels et mes projets futurs. »</p>
+<h2 style="color: #2c2c2c;">PrestaShop un allié pour atteindre ses objectifs</h2>
+<h4 style="color: #ea513f;">Problématique</h4>
+<p>Déjà avant son lancement, Maptiteculotte.com rassemblait une petite communauté sur les réseaux sociaux qui lui a permis d’enregistrer assez rapidement ses premières commandes. Toutefois, un bon début ne suffit pas à promettre un bel avenir, il faut fidéliser les clients et en attirer de nouveaux.</p>
+<h4 style="color: #ea513f;">Challenges</h4>
+<p>La nouvelle boutique de Charline devait lui permettre d’appliquer toutes les bonnes pratiques e-commerce et de mettre en place les actions marketing nécessaires à l’établissement d’une expérience unique pour ses clients.</p>
+<h4 style="color: #ea513f;">Résultats</h4>
+<p>« Depuis que nous sommes passés sur PrestaShop, nous observons une nette amélioration de nos ventes grâce à une boutique plus aboutie et un parcours client vraiment optimisé. Nous apprécions également de pouvoir faire évoluer notre boutique rapidement avec les modules disponibles sur PrestaShop Addons (la place de marché de PrestaShop). Ainsi, avec le module Carte cadeau, nous allons pouvoir proposer à la vente un produit très plébiscité par nos clients : les cartes cadeaux. »</p>
+<h2 style="color: #2c2c2c;">Le mot de la fin</h2>
+<h4 style="color: #ea513f;">Conseil aux futurs e-commerçants</h4>
+<p>« Il faut s’efforcer d’apporter un peu d’air frais sur son marché avec un concept original et différenciant, tout en s’attachant à respecter les bonnes pratiques e-commerce. »</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/maptiteculotte-com-concept-original-lorigine-dune-success-story/">Maptiteculotte.com, un concept original à l’origine d’une Success Story</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/maptiteculotte-com-concept-original-lorigine-dune-success-story/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Les 10 étapes pour réussir votre emailing</title>
+		<link>https://www.prestashop.com/blog/fr/les-10-etapes-pour-reussir-votre-emailing/</link>
+		<comments>https://www.prestashop.com/blog/fr/les-10-etapes-pour-reussir-votre-emailing/#comments</comments>
+		<pubDate>Thu, 21 May 2015 08:30:36 +0000</pubDate>
+		<dc:creator><![CDATA[Kate Robinson]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=18730</guid>
+		<description><![CDATA[<p>Avant toute chose, prenez soin de mettre au placard tous vos préjugés sur l’emailing, il n&#8217;est définitivement pas mort. Seules les campagnes mal conçues et mal préparées connaîtront l&#8217;échec. Aujourd’hui, jusqu’à 10% des transactions e-commerce proviennent intégralement des campagnes d’emailing. N’importe quelle entreprise désireuse de vendre sur Internet doit bien comprendre et assimiler les bonnes pratiques de [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/les-10-etapes-pour-reussir-votre-emailing/">Les 10 étapes pour réussir votre emailing</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Avant toute chose, prenez soin de mettre au placard tous vos préjugés sur l’emailing, il n&rsquo;est définitivement pas mort. Seules les campagnes mal conçues et mal préparées connaîtront l&rsquo;échec.</p>
+<p>Aujourd’hui, jusqu’à 10% des transactions e-commerce proviennent intégralement des campagnes d’emailing. N’importe quelle entreprise désireuse de vendre sur Internet doit bien comprendre et assimiler les bonnes pratiques de l’emailing.</p>
+<p>Simplicité de forme, rapidité d’envoi, résultats instantanés et analysables, le bon emailing est encore loin de l’extinction… Voici 10 astuces qui vous assureront efficacité et pérennité.<br />
+<span id="more-18730"></span></p>
+<h2 style="color: #d15a51"><img style="margin-right: 2px" alt="Le ciblage" src="http://www.prestashop.com/blog/en/files/2015/05/ciblage.png" width="50" height="50" /> Le Ciblage</h2>
+<p>Voilà ce sur quoi toute votre campagne reposera. Commencez par vous assurer de la qualité de votre base de données : des adresses obtenues légalement, sans fautes d’orthographe, avec nom et prénom du destinataire. Bannissez d’office les bases achetées ou même… récupérées sans accord sur internet. Déjà c’est illégal, mais en plus personne ne lira un mail s’il n’a pas volontairement choisi de le recevoir.</p>
+<p>Une fois passée cette étape, le ciblage commence vraiment. Vous devez segmenter votre base en fonction du type de contact : nouveau prospect, client actif, ancien client… On n’enverra certainement pas une newsletter de bienvenue à un ancien client comme on ne proposera pas de fidéliser quelqu’un qui n’a jamais commandé !<br />
+Ça peut paraître évident mais sachez que 51% des internautes se désabonnent car ils reçoivent des emailing non adaptés. Apprenez à connaître vos clients, leurs envies, leurs passions, leurs besoins. Une base qualifiée, des clients satisfaits.</p>
+<h2 style="color: #d15a51"><img style="margin-right: 2px" alt="Un email responsive" src="http://www.prestashop.com/blog/en/files/2015/05/responsivemail.png" width="50" height="50" /> Un Email Responsive</h2>
+<p>Nous sommes en 2015, le futur, c’est maintenant. Vos contacts consultent de plus en plus leurs emails sur leur smartphone. Return Path estime que <strong>50% des mails sont ouverts sur smartphone</strong> dans le monde… une part non négligeable. C’est pourquoi il faut vous assurer que votre emailing sera facilement lisible sur les supports de poches. On parle de « responsive design ».</p>
+<p>Un emailing responsive ne doit être ni trop long, ni trop compliqué. Si votre destinataire est obligé de scroller pendant 3 minutes en plissant les yeux pour réussir à lire des textes serrés et trop longs, vous pouvez être sûr tout ce qu’il verra sera le bouton de désabonnement…</p>
+<p>Nos conseils pour un emailing responsive réussi :</p>
+<ul style="padding-left: 30px">
+<li>Simplifiez votre email en créant des blocs ajustables</li>
+<li>Supprimez des éléments en trop comme des sondages ou des éléments esthétiques</li>
+<li>Ajustez vos menus</li>
+<li>Évitez de juxtaposer photo et texte : placez-les l’un en dessous de l’autre</li>
+<li>Rendez votre texte lisible</li>
+<li>Ne cherchez pas à avoir un rendu identique à votre version Desktop</li>
+<li><strong>TESTEZ AVANT D’ENVOYER</strong></li>
+</ul>
+<p>Choisissez bien une solution emailing qui vous permet de créer une newsletter parfaitement responsive en toute simplicité. Avec notre solution, Sarbacane Desktop, vous avez la possibilité de créer vous-même votre newsletter pro en toute simplicité et elle est automatiquement responsive !</p>
+<p>Téléchargez gratuitement <a href="http://addons.prestashop.com/fr/publicite-marketing-newsletter-modules/19001-sarbacanedesktop.html" target="_blank">Sarbacane Desktop</a></p>
+<h2 style="color: #d15a51"><img style="margin-right: 2px" alt="Un objet accrocheur" src="http://www.prestashop.com/blog/en/files/2015/05/objetaccrocheur.png" width="50" height="50" /> Un objet accrocheur</h2>
+<p>Pour l’instant, vous êtes bien parti pour réussir votre emailing. Mais le lecteur a encore le choix de l’ouvrir ou non. Pour l’y inciter, rien ne vaut un objet convainquant. C’est LE facteur d’ouverture et donc d’efficacité de votre campagne.</p>
+<p>L’objet doit être court, accrocheur, concis. Tentez l’originalité. L’audace et la pertinence sont des facteurs clés et beaucoup de termes trop génériques sont à éviter (par ex : « gratuit », « gagnez », « promotion », « cliquez-vite ! », etc).</p>
+<p>Autre point avant l’ouverture : le pré-header. Il doit résumer l’essentiel en une phrase. Placez l’habituelle « si ce message ne s’affiche pas correctement, cliquez ici » <strong>après</strong> car ce sera la première phrase que verra votre destinataire dans l’aperçu de ses mails.</p>
+<h2 style="color: #d15a51"><img style="margin-right: 2px" alt="Une structure cohérente" src="http://www.prestashop.com/blog/en/files/2015/05/structure.png" width="50" height="50" /> Une structure cohérente</h2>
+<p>Nous y voilà, votre email est ouvert. Mais tout n’es pas encore gagné. Il est temps de parler du plus important, sa structure :</p>
+<ul style="padding-left: 30px">
+<li>L’entête : la fameuse phrase de proposition de copie web, le logo de votre entreprise, une accroche</li>
+<li>Le corps : le sujet principal y est abordé, avec l’information essentielle en avant. Équilibrez les textes et les images (environ 50/50) et n’en faites pas trop.</li>
+<li>Des liens utiles, personnalisés mais pas trop nombreux et des landing pages adaptées</li>
+<li>Vos contacts téléphoniques, mail et postaux, cliquables pour gagner du temps notamment sur smartphone</li>
+<li>Des boutons de partage sur les réseaux sociaux</li>
+<li>Des éléments de réassurance</li>
+<li>Le lien de désabonnement obligatoire</li>
+</ul>
+<p>Nous reviendrons sur certains points dans le détail.</p>
+<h2 style="color: #d15a51"><img style="margin-right: 2px" alt="Un contenu qualitatif" src="http://www.prestashop.com/blog/en/files/2015/05/contenu.png" width="50" height="50" /> Un contenu qualitatif</h2>
+<p>Votre emailing doit avoir un objectif clair que vous devez suivre coûte que coûte. Essayez de mettre en valeur votre sujet, une promotion, une offre spéciale. Organisez et hiérarchisez votre newsletter en fonction de l’importance des informations. Chaque élément doit être placé de manière réfléchie, on ne laisse pas de place au hasard ; tout dépendra de votre sujet !</p>
+<p>En amont, il aura fallu préparer le sujet bien à l’avance. Ne rédigez pas votre email au dernier moment, cela se verra ! De plus, préparer un planning vous permettra de rendre cohérents et réguliers les envois.</p>
+<h2 style="color: #d15a51"><img style="margin-right: 2px" alt="Call to action" src="http://www.prestashop.com/blog/en/files/2015/05/cta.png" width="50" height="50" /> « Call to action »</h2>
+<p>Le « call to action », c’est cette injonction engageante que vous devez impérativement placer sur une image, une bannière ou un bouton contenant un lien direct qui mènera au produit que vous souhaitez vendre. Les termes doivent inviter le lecteur à interagir avec votre entreprise. On retrouve souvent « Je m’abonne », « Je découvre », « J’en profite », « Télécharger l’appli »… Ils permettent de rendre évident un lien et d’inciter par un verbe d’action à cliquer.</p>
+<h2 style="color: #d15a51"><img style="margin-right: 2px" alt="Des landing pages dédiées" src="http://www.prestashop.com/blog/en/files/2015/05/landingpage.png" width="50" height="50" /> Des landing pages dédiées</h2>
+<p>Lorsque le client cliquera sur un lien, il est toujours préférable qu’il soit redirigé vers une landing page l’accueillant chaleureusement sur votre site et lui indiquant clairement la démarche à suivre pour qu’il atterrisse au bon endroit. Dans l’idéal, créez une landing page dédiée à chaque nouvelle campagne.</p>
+<h2 style="color: #d15a51"><img style="margin-right: 2px" alt="La réassurance" src="http://www.prestashop.com/blog/en/files/2015/05/reassurance.png" width="50" height="50" /> La réassurance</h2>
+<p>N’oubliez pas votre objectif : vendre. Pour qu’un internaute achète sur votre site, il lui faut être sûr qu’il ne va pas se faire avoir. Vous devez gagner sa confiance à tout prix pour qu’il aille au bout de la transaction. On parle de réassurance : ajoutez à votre newsletter des phrases comme « satisfait ou remboursé », des indicateurs d’authenticité comme un label, des avis positifs, assurez l’internaute de la sécurisation des transactions sur votre site, proposez-lui de l’aide avec un formulaire de contact ou un numéro direct… Soyez bienveillant, rassurez-le au maximum !</p>
+<h2 style="color: #d15a51"><img style="margin-right: 2px" alt="Le lien social" src="http://www.prestashop.com/blog/en/files/2015/05/liensocial.png" width="50" height="50" /> Le lien social</h2>
+<p>Les réseaux sociaux ne mettront pas fin à l’emailing… bien au contraire ! Leurs bienfaits peuvent être capitaux pour certains business. Si vous les jugez indispensables pour votre entreprise, ajoutez des boutons redirigeant vers vos pages Facebook, Twitter, Youtube, Pinterest, Instagram… en fonction des réseaux qui vous sont utiles et en fonction de la cible de votre campagne. Cette technique a plusieurs avantages :</p>
+<ul style="padding-left: 30px">
+<li>Convertir des contacts email en fans</li>
+<li>Favoriser la viralité de vos campagnes grâce au partage</li>
+<li>Animer votre communauté et assurer une image moderne</li>
+<li>Atteindre de nouvelles cibles et faire connaître votre marque</li>
+</ul>
+<h2 style="color: #d15a51"><img style="margin-right: 2px" alt="Le désabonnement" src="http://www.prestashop.com/blog/en/files/2015/05/desabonnement.png" width="50" height="50" /> Le &#8230; Désabonnement</h2>
+<p>On ne vous le souhaite pas, mais on vous informe tout de même : il est primordial d’ajouter un lien de désabonnement au bas de votre emailing. Il ne doit ni être trop visible, ni caché ! Ne pas trouver le lien de désabonnement peut vous conduire à être signalé comme que SPAM par l’utilisateur et à salir votre image.</p>
+<p>Pour conclure cet article, nous n’aurons de cesse de vous inciter à TESTER votre newsletter avant d’envoyer. Faites un split-test si besoin pour comparer deux versions d’un emailing et vérifiez quel est le plus efficace. N’oubliez pas qu’une fois que c’est envoyé, c’est trop tard !</p>
+<h2 style="color: #d15a51"><img style="margin-right: 2px" alt="Le plus Sarbacane" src="http://www.prestashop.com/blog/en/files/2015/05/plus.png" width="50" height="50" /> Le plus Sarbacane</h2>
+<p>Grâce à <strong>Sarbacane Desktop</strong>, leader des solutions emailing françaises, vous avez la possibilité de remplir tous ces objectifs en toute simplicité. Equipé d’un module <strong>Prestashop directement disponible dans votre back-office</strong>, Sarbacane est une solution pensée pour le e-commerce avec une segmentation de vos listes, des analyses statistiques poussées, des centaines de templates responsive gratuits… Sarbacane vous offre un éventail de possibilités vous permettant de créer l’emailing idéal.</p>
+<p>Téléchargez gratuitement <a href="http://addons.prestashop.com/fr/publicite-marketing-newsletter-modules/19001-sarbacanedesktop.html" target="_blank">Sarbacane Desktop</a></p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/les-10-etapes-pour-reussir-votre-emailing/">Les 10 étapes pour réussir votre emailing</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/les-10-etapes-pour-reussir-votre-emailing/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Partie 2 : 7 craintes des clients et comment les apaiser</title>
+		<link>https://www.prestashop.com/blog/fr/partie-2-7-craintes-clients-comment-les-apaiser/</link>
+		<comments>https://www.prestashop.com/blog/fr/partie-2-7-craintes-clients-comment-les-apaiser/#comments</comments>
+		<pubDate>Tue, 19 May 2015 08:59:27 +0000</pubDate>
+		<dc:creator><![CDATA[Kate Robinson]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=18731</guid>
+		<description><![CDATA[<p>Les acheteurs sont plus perspicaces et exigeants que jamais grâce à leur expérience acquise avec les e-commerçants, et distinguent mieux les arnaques des bonnes affaires. Dans la deuxième partie de notre article sur les craintes des clients et comment les dissiper, nous abordons certains détails plus pratiques qui font hésiter les visiteurs à passer à [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/partie-2-7-craintes-clients-comment-les-apaiser/">Partie 2 : 7 craintes des clients et comment les apaiser</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Les acheteurs sont plus perspicaces et exigeants que jamais grâce à leur expérience acquise avec les e-commerçants, et distinguent mieux les arnaques des bonnes affaires.</p>
+<p>Dans la deuxième partie de notre article sur les craintes des clients et comment les dissiper, nous abordons certains détails plus pratiques qui font hésiter les visiteurs à passer à l&rsquo;achat.<br />
+<span id="more-18731"></span></p>
+<h2 style="color:#252934">1. Je ne sais pas si le produit me plaira.</h2>
+<p>Le principal inconvénient de la vente en ligne est que vous ne pouvez pas prendre et toucher les produits, les retourner dans vos mains ou scruter leurs moindres détails. Néanmoins, beaucoup de choses sont possibles pour donner à vos clients une idée précise de l&rsquo;aspect de vos produits et comment ils doivent être portés ou utilisés. Ainsi, les descriptifs de produits doivent être aussi détaillés que possible et mettre en avant leurs avantages pour répondre à toute question éventuelle des clients. Ajoutez également une sélection de photos professionnelles des produits prises sous plusieurs angles et en variant le niveau de zoom. Les avis des clients peuvent aussi aider les acheteurs à mieux cerner le produit. N&rsquo;oubliez pas non plus d&rsquo;inclure un moyen d&rsquo;afficher la taille et l&rsquo;échelle de vos produits.</p>
+<p><img src="http://www.prestashop.com/blog/fr/files/2015/05/eatingtools-1024x685.jpg" alt="eatingtools" width="700" height="468" class="aligncenter size-large wp-image-20012" /></p>
+<p><span style="font-style:italic"><a href="https://www.eatingtools.com/" target="_blank">Eatingtools</a> parvient très bien à illustrer les produits et à décrire comment ils peuvent être utilisés et dans quelles situations.</span></p>
+<h2 style="color:#252934">2. Il n&rsquo;arrivera peut-être pas à temps, voire jamais.</h2>
+<p>Associez-vous à des transporteurs de confiance, connus pour la ponctualité de leurs livraisons, et répertoriez-les clairement sur votre site. Offrez à vos clients la possibilité de suivre les colis, une option particulièrement bienvenue pour les commandes urgentes. Si vous n&rsquo;arrivez pas à respecter une date d&rsquo;expédition ou si un colis se perd, profitez de l&rsquo;occasion pour mettre en avant votre formidable service client en proposant un produit de remplacement, un cadeau ou une remise conséquente sur un futur achat. Faites en sorte que vos garanties de livraison soient claires et faciles à trouver.</p>
+<p><img src="http://www.prestashop.com/blog/fr/files/2015/05/sweet_isabelle-1024x346.jpg" alt="sweet_isabelle" width="700" height="236" class="aligncenter size-large wp-image-20059" /></p>
+<p><span style="font-style:italic"><a href="http://www.sweetisabelle.com/" target="_blank">Sweet Isabelle</a> informe les clients qu&rsquo;ils recevront un numéro de suivi dès que leur commande sera traitée et expédiée.</span></p>
+<h2 style="color:#252934">3. Si je n&rsquo;aime pas le produit, je ne pourrai pas m&rsquo;en défaire.</h2>
+<p>Une politique claire d&rsquo;échange et de retour est le meilleur remède à ce problème. Si vous pouvez proposer un envoi et un retour gratuits, c&rsquo;est encore mieux, mais assurez-vous que vous pouvez prendre en charge les frais supplémentaires. Quelle que soit la politique retenue, vous devez faire en sorte qu&rsquo;elle soit simple à comprendre et dénuée de tout jargon déroutant. De plus, elle doit être facile à trouver sur votre site Web.</p>
+<p><img src="http://www.prestashop.com/blog/fr/files/2015/05/smallable-1024x715.jpg" alt="smallable" width="700" height="488" class="aligncenter size-large wp-image-20058" /></p>
+<p><span style="font-style:italic">La politique de retour de <a href="http://fr.smallable.com/" target="_blank">Smallable</a> est claire et exhaustive.</span> </p>
+<h2 style="color:#252934">4. Personne ne pourra m&rsquo;aider en cas de besoin.</h2>
+<p>Le service client est une composante essentielle d&rsquo;une activité d&rsquo;e-commerce, peut-être encore plus que dans un magasin physique. En l&rsquo;absence d&rsquo;interactions en face à face avec vos clients, vous devez réussir à résoudre les problèmes à distance. Selon votre budget et vos ressources, plusieurs options sont à votre disposition pour fournir un service client.</p>
+<p>Commencez par une simple <strong>FAQ</strong> répondant aux questions principales (et secondaires !) que vos clients pourraient se poser à propos de vos produits, de leur provenance et de leur fabrication, de votre politique de retour, etc.<br />
+Si vous disposez des ressources suffisantes, mettez en place un numéro de téléphone dédié au service client. La <strong>discussion en ligne</strong> est un autre moyen de montrer à vos clients que vous êtes là pour eux. </p>
+<p>Assurez-vous simplement que vous pouvez tenir votre promesse de service client.</p>
+<p><img src="http://www.prestashop.com/blog/fr/files/2015/05/maspatule-1024x570.png" alt="maspatule" width="700" height="389" class="aligncenter size-large wp-image-20014" /></p>
+<p><span style="font-style:italic"><a href="http://www.maspatule.com/" target="_blank">MaSpatule.com</a> indique clairement le numéro et les garanties de son service client. Pensez également à mettre en avant la fiabilité des transporteurs et des politiques d&rsquo;expédition.</span></p>
+<p><img src="http://www.prestashop.com/blog/fr/files/2015/05/mamy_factory-1024x542.jpg" alt="mamy_factory" width="700" height="370" class="aligncenter size-large wp-image-20013" /></p>
+<p><span style="font-style:italic">La FAQ de <a href="http://www.mamyfactory.com/fr/" target="_blank">Mamy Factory</a> répond à toutes les questions, des politiques de travail aux matériaux utilisés.</span></p>
+<p>Quelles autres craintes vos clients ont-ils exprimées ? Dites-nous tout dans les commentaires ! Prêt à lancer votre boutique en ligne ? N&rsquo;attendez plus, rendez-vous sur le site de <a href="https://www.prestashop.com/">PrestaShop</a> ! </p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/partie-2-7-craintes-clients-comment-les-apaiser/">Partie 2 : 7 craintes des clients et comment les apaiser</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/partie-2-7-craintes-clients-comment-les-apaiser/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>6 idées simples de contenu pour votre page « À propos »</title>
+		<link>https://www.prestashop.com/blog/fr/6-idees-simples-contenu-page-propos/</link>
+		<comments>https://www.prestashop.com/blog/fr/6-idees-simples-contenu-page-propos/#comments</comments>
+		<pubDate>Mon, 18 May 2015 08:45:09 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=18713</guid>
+		<description><![CDATA[<p>Si vous êtes comme la plupart des écrivains, il vous est toujours difficile de parler de vous. Quel que soit le temps que vous passez à fixer votre page blanche, le simple fait de penser à écrire à propos de vous-même suffit à vous faire perdre toute inspiration. C&#8217;est probablement pour cela que votre page [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/6-idees-simples-contenu-page-propos/">6 idées simples de contenu pour votre page « À propos »</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Si vous êtes comme la plupart des écrivains, il vous est toujours difficile de parler de vous. Quel que soit le temps que vous passez à fixer votre page blanche, le simple fait de penser à écrire à propos de vous-même suffit à vous faire perdre toute inspiration. C&rsquo;est probablement pour cela que votre page <span style="font-style:italic">À propos</span> n&rsquo;a jamais été finalisée&#8230; jusqu&rsquo;à présent.</p>
+<p>Nous partageons aujourd&rsquo;hui 6 idées de contenu simples qui vous aideront à rédiger votre page À propos. Si vous manquez de contenu, vous trouverez de nouvelles idées. Si au contraire vous avez trop de contenu, nous avons également pensé à des questions utiles pour vous aider à vous limiter. Que vous vous consacriez à la rédaction initiale de votre page <span style="font-style:italic">À propos</span> ou que vous effectuiez simplement une mise à jour, lisez notre article pour en savoir plus. Quelques minutes suffisent !<br />
+<span id="more-18713"></span><br />
+Avant de commencer à rédiger votre contenu, vous devez <a href="https://www.prestashop.com/blog/fr/comment-elaborer-des-personas-pour-le-marketing-e-commerce-b2c/">identifier votre public</a>. Si vous gérez une boutique en ligne, la page À propos doit s&rsquo;adresser aux clients qui veulent mieux connaître votre marque. Gardez le profil de ces personnes à l&rsquo;esprit lorsque vous réfléchissez au message que vous souhaitez faire passer.</p>
+<h2 style="color:#4d8ab7">1. L&rsquo;historique de l&rsquo;entreprise</h2>
+<p>Pour commencer, le plus simple consiste à raconter l&rsquo;histoire de votre boutique. Ce type de contenu est particulièrement adapté si votre magasin est ouvert depuis longtemps, même si la vente en ligne reste une activité récente pour vous. Commencez par le tout début, avec les fondateurs et les raisons qui les ont poussés à se lancer. Si l&rsquo;historique est trop long, divisez-le en dates clés, qui s&rsquo;intégreront dans une chronologie. Trop de dates clés ? Choisissez celles qui intéressent votre public. Par exemple, la date à laquelle vous avez rejoint l&rsquo;entreprise est peut-être importante à vos yeux, mais pas aux yeux du public.</p>
+<p>Si vous venez de lancer votre boutique en ligne, n&rsquo;inventez pas son historique. Rien n&rsquo;est plus destructeur qu&rsquo;un commerçant qui ment. Au lieu de vous concentrer sur l&rsquo;historique de l&rsquo;entreprise, vous pouvez choisir de mettre l&rsquo;accent sur votre vie professionnelle ou personnelle. Veillez à ce que cela soit utile à votre boutique. Sinon, ne remplissez pas cette section.</p>
+<h2 style="color:#4d8ab7">2. Votre passion</h2>
+<p>Posez-vous les questions suivantes : « Qu&rsquo;est-ce que j&rsquo;aime dans ce que je fais ? » et « Pourquoi ? ».</p>
+<p>Au fond, vous savez déjà pourquoi vous aimez ce que vous faites ; cette page vous permet de partager votre enthousiasme avec vos clients. Si vous n&rsquo;êtes pas sûr de la raison qui vous pousse à vendre vos produits, réfléchissez-y davantage. Quels que soient les aspects que vous aimez ou les raisons de votre passion, il y aura toujours une personne qui s&rsquo;identifiera, du moment que votre témoignage est authentique. Autrement dit, si vous n&rsquo;êtes pas sûr de vos réponses, n&rsquo;inventez rien !</p>
+<p>En partageant ce qui vous a inspiré, vous rendrez l&rsquo;expérience d&rsquo;achat de vos clients plus agréable. Vos clients n&rsquo;auront plus l&rsquo;impression de réaliser leurs achats sur un site Web quelconque ; ils visiteront une boutique dont le gérant partage leur passion, ou une passion similaire.</p>
+<h2 style="color:#4d8ab7">3. La mission ou vision de l&rsquo;entreprise</h2>
+<p>Si votre produit ou service est « révolutionnaire », il est crucial d&rsquo;inclure la mission ou la vision de votre entreprise. Saisissez cette opportunité pour détailler les réponses qu&rsquo;apporte votre produit/service à vos clients. Faites ensuite part de vos ambitions pour l&rsquo;avenir de votre entreprise. Le fait de partager la vision de votre entreprise aide à convaincre les clients potentiels de l&rsquo;originalité d&rsquo;un nouveau produit. S&rsquo;ils n&rsquo;étaient pas complètement séduits par le produit, il s&rsquo;agit de votre dernière opportunité pour y parvenir.</p>
+<p>Si vous vendez des produits classiques déjà présents sur le marché, mettre en avant la mission ou la vision de votre entreprise peut également vous aider à définir les objectifs globaux de votre boutique. Une nouvelle fois, si vous parlez de votre mission, assurez-vous que les lecteurs puissent s&rsquo;identifier.</p>
+<h2 style="color:#4d8ab7">4. La liste de vos partenaires</h2>
+<p>Vous collaborez avec des entreprises de référence ? Faites-leur de la publicité, tout en tirant parti de leur réputation. Assurez-vous simplement d&rsquo;obtenir leur autorisation avant d&rsquo;utiliser leur logo ! Voici des exemples des types d&rsquo;entreprise que vous pouvez inclure :</p>
+<ul style="padding-left:30px">
+<li><strong>Investisseurs</strong> – Toute entreprise ou personne individuelle qui a donné de l&rsquo;argent à votre entreprise.</li>
+<li><strong>Fournisseurs</strong> – L&rsquo;entreprise à laquelle vous achetez vos produits.</li>
+<li><strong>Fabricants</strong> – L&rsquo;entreprise ou la marque qui fabrique vos produits.</li>
+<li><strong>Détaillants</strong> – Une entreprise qui vend vos produits dans un magasin physique.</li>
+<li><strong>Publications</strong> – Toutes les publications importantes dans lesquelles vous êtes cité.</li>
+<li><strong>Organisations à but non lucratif</strong> – Toutes les organisations que vous soutenez activement ou auxquelles vous faites des dons.</li>
+</ul>
+<p>N&rsquo;oubliez pas que l&rsquo;objectif de cette page est de mettre en valeur votre entreprise. Citez uniquement les entreprises qui vous permettront d&rsquo;étayer l&rsquo;histoire de votre boutique.  </p>
+<h2 style="color:#4d8ab7">5. Les témoignages</h2>
+<p>Si vous avez l&rsquo;habitude de rougir lorsque l&rsquo;on vous fait un compliment, il est temps d&rsquo;arrêter. De bons témoignages clients peuvent être très utiles pour acquérir de nouveaux clients. Lorsque quelqu&rsquo;un vous fait un compliment, acceptez-le poliment, puis (si le moment est approprié) demandez la permission de publier ce témoignage.</p>
+<p>Vous ne disposez d&rsquo;aucun témoignage ? Rien ne vous empêche de demander ! Pour demander un témoignage ou une recommandation, profitez d&rsquo;un contact direct avec un client satisfait de votre produit ou service. Gardez à l&rsquo;esprit que les témoignages ne prennent pas toujours la forme d&rsquo;une citation.</p>
+<p>Vous pouvez demander à vos clients d&rsquo;<span style="font-style:italic">aimer</span> vos pages sur les réseaux sociaux pour renforcer votre présence. Des commentaires positifs issus de sources externes vous permettent de renforcer la crédibilité de votre boutique. Les témoignages les plus efficaces confortent vos clients potentiels dans leur choix.</p>
+<h2 style="color:#4d8ab7">6. Les images</h2>
+<p>Utilisez des images pour <span style="font-style:italic">présenter</span> l&rsquo;essence de votre entreprise à vos clients. Que vous choisissiez de mettre en avant le personnel qui gère votre site Web, votre espace de travail ou la mascotte de l&rsquo;entreprise, les images peuvent vous permettre de donner un premier aperçu de votre entreprise à vos clients. Veillez à inclure une légende pour chaque image afin que votre public comprenne clairement le message que vous souhaitez faire passer.</p>
+<p>Si vous optez pour des images pour votre page <span style="font-style:italic">À propos</span>, n&rsquo;oubliez pas qu&rsquo;elles ne doivent pas prendre le pas sur l&rsquo;histoire de votre entreprise. Utilisez-les de façon stratégique, pour mettre l&rsquo;accent sur des éléments importants et aussi pour établir un contact avec vos clients.</p>
+<h2 style="color:#4d8ab7">Pour résumer</h2>
+<p>Les pages <span style="font-style:italic">À propos</span> peuvent aider les entreprises à entrer en relation avec leurs clients. Utilisez une ou plusieurs de ces idées pour commencer. Gardez ces conseils à l&rsquo;esprit :</p>
+<ul style="padding-left:30px">
+<li>Racontez votre histoire depuis le tout début.</li>
+<li>Placez votre passion au centre de votre narration.</li>
+<li>Partagez vos attentes et vos rêves grâce à votre vision.</li>
+<li>Tirez parti de la crédibilité de vos partenaires.</li>
+<li>Renforcez votre crédibilité grâce à des témoignages clients.</li>
+<li>Utilisez des images pour illustrer votre histoire.</li>
+</ul>
+<p>Êtes-vous prêt à actualiser la page À propos de votre boutique en ligne ? Qu&rsquo;attendez-vous ? Depuis le back-office PrestaShop, accédez à Préférences &gt; CMS &gt; À propos. Vous voulez voir des exemples ? Découvrez le <a href="https://www.prestashop.com/fr/showcase">Showcase PrestaShop</a>. Faites-nous part de vos exemples préférés dans les commentaires.</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/6-idees-simples-contenu-page-propos/">6 idées simples de contenu pour votre page « À propos »</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/6-idees-simples-contenu-page-propos/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>5 raisons de choisir un nom de domaine personnalisé pour votre boutique en ligne</title>
+		<link>https://www.prestashop.com/blog/fr/5-raisons-choisir-nom-domaine-personnalise-boutique-en-ligne/</link>
+		<comments>https://www.prestashop.com/blog/fr/5-raisons-choisir-nom-domaine-personnalise-boutique-en-ligne/#comments</comments>
+		<pubDate>Wed, 13 May 2015 16:22:47 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=18701</guid>
+		<description><![CDATA[<p>Si vous avez choisi PrestaShop pour créer votre boutique en ligne, vous savez déjà que nous vous fournissons un nom de domaine gratuit : [nom de la boutique].PSwebstore.com. Même si ce nom de domaine permet de rediriger vos visiteurs vers votre boutique, vous pouvez envisager d&#8217;opter pour un nom de domaine personnalisé. Pour vous aider [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/5-raisons-choisir-nom-domaine-personnalise-boutique-en-ligne/">5 raisons de choisir un nom de domaine personnalisé pour votre boutique en ligne</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Si vous avez choisi PrestaShop pour créer votre boutique en ligne, vous savez déjà que nous vous fournissons un nom de domaine gratuit : [nom de la boutique].PSwebstore.com. Même si ce nom de domaine permet de rediriger vos visiteurs vers votre boutique, vous pouvez envisager d&rsquo;opter pour un nom de domaine personnalisé. Pour vous aider à faire le bon choix en fonction de votre situation, voici les 5 avantages des noms de domaine personnalisés.<br />
+<span id="more-18701"></span></p>
+<h2 style="color:#4e8999">Une image professionnelle</h2>
+<p>On dit que la première impression est déterminante. Pour accéder à votre site Web, un client doit tout d&rsquo;abord saisir une URL. Si l&rsquo;adresse [nom de la boutique].PSwebstore.com peut suffire à décrire vos activités, elle n&rsquo;est pas gage de professionnalisme. Mettez-vous à la place de vos clients. Combien dépenseriez-vous dans une boutique hébergée sur le domaine PSwebstore ? </p>
+<p>Un nom de domaine personnalisé contribue à la crédibilité de votre boutique en ligne. L&rsquo;adresse de votre page d&rsquo;accueil passe ainsi de [nom de la boutique].PSwebstore.com à quelque chose de similaire à www.[nom de votre boutique].com. Il est difficile de se faire une réputation ; il est donc important de saisir cette opportunité ! </p>
+<h2 style="color:#4e8999">Une adresse e-mail professionnelle</h2>
+<p>Deuxième raison : vous avez besoin d&rsquo;une adresse e-mail professionnelle. Preuve de votre professionnalisme, elle montre également à vos partenaires commerciaux potentiels que vous avez consacré du temps et de nombreux efforts à votre boutique. Mettez-vous à présent à la place d&rsquo;un partenaire potentiel. Préfèreriez-vous envoyer un e-mail à bob@nomdelaboutique.com ou BobShop@gmail.com ?</p>
+<p>Vous n&rsquo;êtes pas convaincu ? Seriez-vous prêt à collaborer avec une personne qui vous écrit avec l&rsquo;adresse contact@nomdelaboutique.com ou PrestaShopcontact@aol.com ? Cela peut sembler futile, mais une adresse e-mail professionnelle peut faire beaucoup lorsque vous tentez d&rsquo;attirer de nouveaux partenaires et, qui plus est, de les convaincre de votre sérieux.  </p>
+<h2 style="color:#4e8999">L&rsquo;optimisation pour les moteurs de recherche</h2>
+<p>Vous avez probablement beaucoup entendu parler de <a href="https://www.prestashop.com/blog/fr/comment-trouver-les-bons-mots-cles-pour-le-seo-de-votre-site-ecommerce-partie-12/">l&rsquo;importance du référencement</a> pour votre boutique en ligne. Vous ne savez peut-être pas encore qu&rsquo;un nom de domaine personnalisé peut contribuer à un bon référencement. Comment ? Tout d&rsquo;abord, aucun de vos clients ne recherchera le terme « PSwebstore ». Le domaine que vous choisirez améliorera votre classement dans les résultats de recherche par rapport au nom de domaine par défaut. </p>
+<p>Deuxièmement, l&rsquo;objectif du référencement est d&rsquo;aider les clients à trouver votre boutique. Un nom de domaine personnalisé vous aide à faire la promotion de votre boutique et de votre marque : vous vous démarquez plus facilement de vos concurrents et vos clients vous trouvent aisément. Si vous choisissez un nom de domaine pertinent, avec des mots-clés efficaces, il sera listé sur <span style="font-style:italic">chaque</span> page produit. </p>
+<h2 style="color:#4e8999">La protection de votre marque</h2>
+<p>Il est quasiment impossible, ou tout du moins très onéreux, d&rsquo;acheter un domaine qui appartient déjà à quelqu&rsquo;un. Il existe une <a href="https://blog.asmallorange.com/2013/07/how-to-buy-a-domain-name-thats-already-taken/" target="_blank">procédure pour tenter d&rsquo;obtenir le domaine</a> de votre choix, mais rien n&rsquo;est garanti. Avant de commencer à construire votre marque, assurez-vous qu&rsquo;elle correspond à un nom de domaine disponible.</p>
+<p>Prenons par exemple ma nouvelle crème solaire préférée : Sun Bum. Après avoir saisi <a href="http://sunbum.com/" target="_blank">SunBum.com</a>, j&rsquo;ai été redirigé vers un domaine en parking. J&rsquo;ai automatiquement supposé que la marque n&rsquo;avait pas de boutique en ligne. J&rsquo;ai par la suite découvert qu&rsquo;elle était bien présente en ligne, mais sur le site <a href="http://trustthebum.com/" target="_blank">http://trustthebum.com/</a>. L&rsquo;adresse utilise le slogan de la marque, et non son nom à proprement parler. Si certaines personnes finiront par s&rsquo;en apercevoir, imaginez le nombre de clients qui ne s&rsquo;en rendront pas compte. Si vous créez votre marque, revendiquez son nom. Avoir un nom de domaine identique au nom de la marque permet de garder son trafic et d&rsquo;imposer un univers particulier.</p>
+<h2 style="color:#4e8999">Un coût relativement faible</h2>
+<p>« OK, toutes ces raisons semblent valables, mais combien cela va-t-il me coûter ? », vous demandez-vous. Si vous avez déjà ouvert une boutique PrestaShop, vous pouvez acheter un domaine pour 16,66 $ (+ taxes) à l&rsquo;année. Si vous n&rsquo;êtes pas encore convaincu de la nécessité de cette dépense, rappelez-vous que cela équivaut à seulement 4 cafés sur une année ! N&rsquo;oubliez pas, vous devrez peut-être payer des frais supplémentaires si le nom de domaine appartient déjà à quelqu&rsquo;un. En 2013, le <a href="http://www.forbes.com/sites/martinzwilling/2013/01/14/get-a-domain-name-without-bankrupting-your-startup/" target="_blank"> coût d&rsquo;un domaine déjà réservé était en moyenne de 5 000 $</a>.</p>
+<p>Si votre budget est limité, vous pouvez acheter votre nom de domaine en premier (sans hébergement). Une fois que vous aurez davantage de fonds, vous pourrez ajouter l&rsquo;hébergement et développer votre présence en ligne. (Ou optez pour <a href="http://www.prestashop.com/">PrestaShop Cloud</a> avec hébergement inclus !)</p>
+<h2 style="color:#4e8999">Ce qu&rsquo;il faut retenir</h2>
+<p>Les noms de domaine personnalisés sont une solution abordable pour mettre en avant votre professionnalisme, optimiser le référencement de votre boutique et, surtout, protéger votre marque. </p>
+<hr width="20%" align="left" />
+Êtes-vous convaincu de la nécessité d&rsquo;acheter un nom de domaine personnalisé pour votre boutique en ligne ? Réfléchissez-y ! Vous pouvez également consulter ces articles concernant <a href="https://www.prestashop.com/blog/fr/comment-trouver-le-meilleur-nom-de-domaine-pour-votre-boutique-en-ligne/">le choix du bon nom de domaine pour votre boutique en ligne</a> ! Connectez-vous ensuite à votre compte <a href="http://prestashop.com/">PrestaShop.com</a> pour enregistrer et acheter votre nom de domaine.</p>
+<p>Vous n&rsquo;avez pas encore de boutique en ligne ? Lancez-vous dès maintenant dans la vente en ligne avec le logiciel gratuit PrestaShop.</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/5-raisons-choisir-nom-domaine-personnalise-boutique-en-ligne/">5 raisons de choisir un nom de domaine personnalisé pour votre boutique en ligne</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/5-raisons-choisir-nom-domaine-personnalise-boutique-en-ligne/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Introduction à l’e-commerce : comment trouver l&#8217;hébergement adapté à votre boutique en ligne</title>
+		<link>https://www.prestashop.com/blog/fr/introduction-commerce-comment-trouver-lhebergement-adapte-boutique-en-ligne/</link>
+		<comments>https://www.prestashop.com/blog/fr/introduction-commerce-comment-trouver-lhebergement-adapte-boutique-en-ligne/#comments</comments>
+		<pubDate>Tue, 12 May 2015 14:53:16 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=18693</guid>
+		<description><![CDATA[<p>Si vous envisagez de créer un site e-commerce, vous devez avant tout étudier vos options d&#8217;hébergement. Avec PrestaShop, vous pouvez opter pour notre version hébergée, PrestaShop Cloud, ou télécharger le logiciel sur l’hébergeur de votre choix. Dans cet article, nous aborderons les éléments fondamentaux dont vous devez tenir compte au moment de choisir un hébergeur [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/introduction-commerce-comment-trouver-lhebergement-adapte-boutique-en-ligne/">Introduction à l’e-commerce : comment trouver l&rsquo;hébergement adapté à votre boutique en ligne</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Si vous envisagez de créer un site e-commerce, vous devez avant tout étudier vos options d&rsquo;hébergement. Avec PrestaShop, vous pouvez opter pour notre version hébergée, PrestaShop Cloud, ou télécharger le logiciel sur l’hébergeur de votre choix. Dans cet article, nous aborderons les éléments fondamentaux dont vous devez tenir compte au moment de choisir un hébergeur pour votre site e-commerce.</p>
+<p>Aujourd&rsquo;hui, j&rsquo;ai interviewé Joe Siwiak, développeur PrestaShop, au sujet des principes de base de l&rsquo;hébergement. Lisez cet article pour savoir lequel sera le mieux adapté à votre boutique en ligne.<br />
+<span id="more-18693"></span><br />
+Il existe 3 grands types d&rsquo;options d&rsquo;hébergement : l&rsquo;hébergement mutualisé, l&rsquo;hébergement VPS et l&rsquo;hébergement dédié.</p>
+<p><img class="aligncenter size-full wp-image-20021" alt="Shared Hosting" src="http://www.prestashop.com/blog/fr/files/2015/05/Shared-Hosting.jpg" width="796" height="500" /></p>
+<h2 style="color: #25b9d7">Hébergement mutualisé (ou partagé)</h2>
+<p>Comme son nom le suggère, vous partagez l&rsquo;hébergement avec d&rsquo;autres sites Web. Cette option est certainement la moins onéreuse, mais elle présente plusieurs désavantages. Le principal inconvénient du recours à l&rsquo;hébergement mutualisé est le volume limité de trafic que vous pouvez recevoir simultanément sur votre site. C&rsquo;est parfait si vous lancez tout juste votre activité, mais si vous vous attendez à générer beaucoup de trafic, cette option n&rsquo;est pas adaptée. Une fois votre limite atteinte, la plupart des fournisseurs d&rsquo;hébergement mutualisés freineront (ou ralentiront) la vitesse de chargement de votre site Web.</p>
+<p>Gardez aussi à l&rsquo;esprit que si un autre site sur votre serveur mutualisé utilise un volume trop important de données, cela risque d&rsquo;avoir un impact sur les performances de votre propre site web.</p>
+<p><img class="aligncenter size-full wp-image-20022" alt="VPS Hosting" src="http://www.prestashop.com/blog/fr/files/2015/05/VPS-Hosting.jpg" width="796" height="500" /></p>
+<h2 style="color: #25b9d7">Hébergement VPS</h2>
+<p>La principale différence entre l&rsquo;hébergement VPS et l&rsquo;hébergement mutualisé est la mise à disposition de ressources dédiées pour votre site Web. Même si vous partagez l&rsquo;espace disponible d’un serveur avec d&rsquo;autres sites, chacun d&rsquo;entre eux se verra allouer ses propres ressources. Par conséquent, vous garderez également le contrôle de la maintenance et des performances de votre site Web. De plus, dans la mesure où vous disposez de ressources dédiées, le trafic vers d&rsquo;autres sites n&rsquo;aura aucun impact sur le vôtre.</p>
+<p><img class="aligncenter size-full wp-image-20018" alt="Dedicated Hosting" src="http://www.prestashop.com/blog/fr/files/2015/05/Dedicated-Hosting.jpg" width="796" height="500" /></p>
+<h2 style="color: #25b9d7">Hébergement dédié</h2>
+<p>Il s&rsquo;agit de l&rsquo;une des meilleures options d&rsquo;hébergement disponibles. Votre site Web est hébergé sur un serveur individuel, ce qui signifie que vous exercez un contrôle total à la fois sur votre site et le serveur. Bien que ce type d&rsquo;hébergement soit plus onéreux que l&rsquo;hébergement VPS, vous payez uniquement pour l&rsquo;espace et les performances dont vous avez besoin.</p>
+<p>N&rsquo;oubliez pas que si vous gérez votre propre serveur, vous aurez peut-être besoin d&rsquo;une équipe informatique dédiée pour administrer votre site Web. Mais pas de panique : avec la plupart des options d&rsquo;hébergement dédié, vous avez la possibilité d&rsquo;acheter un service « administré » ou « non administré ». Ce service est très utile pour les e-commerçants qui comprennent les concepts propres à l&rsquo;administration de système, mais pas forcément la syntaxe des systèmes d&rsquo;exploitation spécifiques qui sont implémentés.</p>
+<p>Quel que soit le type d&rsquo;hébergement choisi, n&rsquo;oubliez pas de vous pencher sur ces 5 fonctionnalités d&rsquo;hébergement :</p>
+<ol>
+<li>Le <strong>processeur (Central Processing Unit ou CPU)</strong> est responsable du traitement des données sur tous les ordinateurs. Un hébergeur est avant tout un vaste réseau d&rsquo;ordinateurs disposant d&rsquo;un volume de stockage encore plus vaste. De ce fait, le processeur de votre hôte déterminera la vitesse à laquelle les informations figurant sur votre site Web sont traitées et envoyées à votre navigateur. Aujourd&rsquo;hui, les clients s&rsquo;attendent à un chargement rapide des sites Web ; il est donc important que le processeur de votre hébergeur soit puissant.</li>
+<li>La <strong>mémoire vive (Random Access Memory ou RAM)</strong> désigne les données temporaires sauvegardées sur un serveur. La RAM correspond à l&rsquo;emplacement de la partie « vive » de tout système. Elle permet de stocker les informations en attente de traitement ou celles auxquelles l&rsquo;utilisateur doit accéder immédiatement. C&rsquo;est l&rsquo;intermédiaire qui reçoit les instructions d&rsquo;une commande (clic) et transmet au processeur les données à traiter. Il est possible qu&rsquo;un processeur, même rapide, traite les informations lentement si la mémoire vive n&rsquo;est pas performante. Que vous soyez en train de créer votre boutique ou que des clients consultent vos produits, ces tâches doivent toujours être exécutées instantanément. C&rsquo;est pourquoi il est important de posséder une RAM rapide.</li>
+<li>La <strong>mémoire de stockage</strong> fait référence au volume d&rsquo;informations ou de données que vous pouvez stocker sur votre serveur hébergé. Concernant votre boutique en ligne, il peut s&rsquo;agir plus concrètement du logiciel PrestaShop, de données relatives aux commandes, d&rsquo;informations client et même d&rsquo;images des produits (l&rsquo;installation initiale du logiciel PrestaShop nécessite 23 Mo de mémoire).</li>
+<li>L&rsquo;<strong>accès aux fichiers (I/O)</strong> mesure la vitesse à laquelle les fichiers peuvent être traités. Le thème par défaut de PrestaShop est élaboré à partir de la technologie SMARTY, qui compile des templates html stockés comme fichiers pour un accès ultérieur afin de réduire le volume de traitement nécessaire à votre site pour chaque utilisateur. Le template s&rsquo;adapte à la configuration de votre boutique. Ainsi, grâce à notre fonction de modification instantanée, vous pouvez changer les couleurs et textes clés sur votre site Web en toute simplicité. La capacité de votre hébergeur à afficher le thème de votre boutique dépend de la vitesse à laquelle il peut accéder aux fichiers et les assembler..</li>
+<li>La <strong>vitesse d&rsquo;accès au réseau</strong> désigne la vitesse à laquelle les données sont transférées du serveur ou de l&rsquo;hébergeur à l&rsquo;ordinateur du client. Une fois toutes les informations traitées sur le serveur hébergé, l&rsquo;envoi de celles-ci à l&rsquo;utilisateur (que ce soit vous ou votre client) est crucial. Si la vitesse d&rsquo;accès au réseau n&rsquo;est pas assez élevée, le temps de chargement de votre site Web s&rsquo;allongera. Non seulement vous perdrez des clients potentiels, mais vous perdrez du temps à attendre le chargement de votre propre site.</li>
+</ol>
+<p>Maintenant que vous connaissez les critères de recherche pour un hébergeur, cherchez le mieux adapté à votre nouvelle boutique en ligne. Commencez par consulter notre liste d&rsquo;<a href="https://www.prestashop.com/fr/ecommerce-hosting">hébergeurs partenaires</a> préférés.</p>
+<p>Si la solution de l&rsquo;auto-hébergement ne convient pas à votre boutique en ligne, découvrez la version cloud et <span style="font-style: italic">gratuite</span> de notre logiciel : <a href="https://www.prestashop.com/fr/ecommerce-software">PrestaShop Cloud</a>.</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/introduction-commerce-comment-trouver-lhebergement-adapte-boutique-en-ligne/">Introduction à l’e-commerce : comment trouver l&rsquo;hébergement adapté à votre boutique en ligne</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/introduction-commerce-comment-trouver-lhebergement-adapte-boutique-en-ligne/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Partie 1 : 7 craintes des clients et comment les apaiser</title>
+		<link>https://www.prestashop.com/blog/fr/partie-1-7-craintes-clients-comment-les-apaiser/</link>
+		<comments>https://www.prestashop.com/blog/fr/partie-1-7-craintes-clients-comment-les-apaiser/#comments</comments>
+		<pubDate>Tue, 05 May 2015 08:24:52 +0000</pubDate>
+		<dc:creator><![CDATA[Kate Robinson]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=18674</guid>
+		<description><![CDATA[<p>Il est loin le temps où l&#8217;e-commerce était considéré comme l&#8217;ultime frontière intimidante de la vente au détail. Désormais, les clients ont l&#8217;habitude d&#8217;acheter ou, du moins, de naviguer sur le Web. Pour autant, cela ne veut pas dire qu&#8217;ils ne redoutent pas un vol de carte bancaire ou des frais cachés. Dans cet article [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/partie-1-7-craintes-clients-comment-les-apaiser/">Partie 1 : 7 craintes des clients et comment les apaiser</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Il est loin le temps où l&rsquo;e-commerce était considéré comme l&rsquo;ultime frontière intimidante de la vente au détail. Désormais, les clients ont l&rsquo;habitude d&rsquo;acheter ou, du moins, de naviguer sur le Web. Pour autant, cela ne veut pas dire qu&rsquo;ils ne redoutent pas un vol de carte bancaire ou des frais cachés.</p>
+<p>Dans cet article en deux parties, nous aborderons 7 grandes craintes des clients concernant le shopping en ligne et nous vous donnerons quelques pistes pour les dissiper, du premier clic à la vente finale.<br />
+<span id="more-18674"></span></p>
+<h2 style="color: #252934">1. Ce n&rsquo;est pas un vrai magasin.</h2>
+<p>Faites en sorte que votre boutique ne passe pas pour une vitrine vide camouflant une arnaque en ligne. En suivant les conseils ci-dessous, rassurez les clients sur le fait que derrière votre page d&rsquo;accueil se trouve un commerce qui marche :</p>
+<p>- <a href="http://www.azaleasf.com/" target="_blank"><strong>Investissez dans un design de qualité</strong></a>. Les couleurs criardes et autres chartes graphiques en police 15 ne sont plus tendance depuis que Rupert Murdoch a acheté MySpace. Un design soigné représente un bon investissement. Non seulement il facilite la navigation sur votre site Web et la recherche de produits (ainsi que leur achat), mais il montre également que votre activité compte pour vous. Après tout, si vous ne vous souciez pas de votre boutique, pourquoi serait-ce le cas de vos clients ?</p>
+<p><img class="aligncenter size-large wp-image-19989" alt="Azalea" src="http://www.prestashop.com/blog/fr/files/2015/05/Azalea-1024x660.png" width="700" height="451" /></p>
+<p><span style="font-style: italic">Le design simple et moderne d&rsquo;Azalea est agréable à regarder et offre une navigation intuitive.</span></p>
+<p>- <a href="http://www.starcowparis.com/" target="_blank"><strong>Indiquez une adresse physique</strong></a>. Une adresse est indispensable pour recevoir votre courrier professionnel, même s&rsquo;il s&rsquo;agit seulement d&rsquo;une boîte postale. Pensez donc à l&rsquo;inclure sur votre page « Contact » ou « À propos ». Si vous possédez un magasin ou un siège physique, vous pouvez ajouter un repère de localisation Google Maps pour plus de crédibilité.</p>
+<p><img class="aligncenter size-large wp-image-19993" alt="Starcow" src="http://www.prestashop.com/blog/fr/files/2015/05/Starcow-1024x531.png" width="700" height="362" /></p>
+<p><span style="font-style: italic">L&rsquo;adresse physique de Starcow est discrète, mais visible, en haut de la page d&rsquo;accueil. </span></p>
+<p>- <a href="http://www.whatgoesaroundnyc.com/" target="_blank"><strong>Ajoutez de vraies photos</strong></a>. Certes, les photos de vos stocks sont peut-être peu chères et faciles à trouver, mais elles ne rendent pas service à votre entreprise. Créez simplement une page « L&rsquo;équipe » ou « À propos » comportant une jolie photo de vous ou des membres de votre équipe pour établir un lien avec vos clients et mettre en avant la personnalité unique de votre société.</p>
+<p><img class="aligncenter size-large wp-image-19987" alt="what goes around" src="http://www.prestashop.com/blog/fr/files/2015/05/what-goes-around-1024x637.jpg" width="700" height="435" /></p>
+<p><span style="font-style: italic">Les propriétaires de What Goes Around Comes Around ont agrémenté l&rsquo;histoire de leur marque d&rsquo;une photo authentique.</span></p>
+<p>- <a href="http://www.teaguys.com/content/4-about-the-tea-guys" target="_blank"><strong>Racontez une histoire</strong></a>. Vous n&rsquo;avez rien en commun avec toutes les autres boutiques sur le marché, n&rsquo;est-ce pas ? Alors expliquez à vos clients pourquoi vous sortez du lot. En plus d&rsquo;une photo ou deux de vous et de votre directeur des opérations (alias votre pitbull Médor), décrivez-leur un peu le contexte. Qui êtes-vous ? Pourquoi avez-vous lancé cette activité ? Et pourquoi votre boutique est-elle le meilleur endroit où aller pour acheter vos produits ? Faites entrer les clients dans votre monde pour gagner leur confiance.</p>
+<p><img class="aligncenter size-large wp-image-19997" alt="The tea guys history" src="http://www.prestashop.com/blog/fr/files/2015/05/The-tea-guys-history-1024x558.jpg" width="700" height="381" /></p>
+<p><span style="font-style: italic">Les Tea Guys utilisent un dessin amusant et un style d&rsquo;écriture très plaisant pour se rapprocher des clients.</span></p>
+<p>- <strong>Publiez des témoignages</strong>. Il n&rsquo;y a rien de plus efficace que le bouche à oreille. S&rsquo;il s&rsquo;avère que d&rsquo;autres êtres humains ont acheté vos produits et vous ont fait part de leur satisfaction, n&rsquo;hésitez pas à le faire savoir ! Ne supprimez pas tous les avis moins dithyrambiques, car personne n&rsquo;est parfait en permanence. D&rsquo;ailleurs, répondre à un retour négatif montre au public que vous maîtrisez la situation, en plus de prouver votre existence réelle.</p>
+<p>- <a href="http://www.gretelhome.com/content/12-Press" target="_blank"><strong>Mettez en avant les mentions dans les médias</strong></a>. Comme les témoignages des clients, toute mention dans les médias, quels qu&rsquo;ils soient, contribue à renforcer votre crédibilité.</p>
+<p><img class="aligncenter size-full wp-image-19990" alt="gretel_home testimonials" src="http://www.prestashop.com/blog/fr/files/2015/05/gretel_home-testimonials.jpg" width="999" height="852" /></p>
+<p><span style="font-style: italic">Gretel home attire notre attention sur les publications marquantes dans les médias.</span></p>
+<h2 style="color: #252934">2. Les données de carte bancaire vont être volées.</h2>
+<p>L&rsquo;e-commerce n&rsquo;échappe pas à la règle des gentils et des méchants, comme tous les autres secteurs. Le vol de carte de crédit et l&rsquo;usurpation d&rsquo;identité sont des menaces réelles dont vos clients s&rsquo;attendent à ce que vous les protégiez : c&rsquo;est votre responsabilité en tant qu&rsquo;e-commerçant. Voici quelques moyens de vous assurer que vos clients savent que vous êtes dans le camp des gentils :</p>
+<p>- <strong>Affichez des marques de confiance identifiables</strong>. Il est possible que les clients ne reconnaissent pas votre logo lors de leur première visite sur votre site, mais ils ont certainement déjà croisé le fidèle bouclier rouge de McAfee, la solide torche du Better Business Bureau et le double P rassurant du logo PayPal. Faites le choix de travailler avec des partenaires renommés et bénéficiez de leur réputation de fiabilité.</p>
+<p>- <strong>Achetez un certificat SSL</strong>. SSL est un protocole de cryptographie conçu pour sécuriser les données échangées sur le Web à l&rsquo;aide d&rsquo;une clé de chiffrement. Il sert à protéger les transactions effectuées par carte bancaire et les données sensibles, comme les identifiants de connexion ou les informations personnelles. Dans PrestaShop, l&rsquo;identifiant du back-office, les pages relatives au compte front-office et les commandes peuvent être sécurisés avec SSL par défaut. Une fois que vous aurez <a href="https://www.prestashop.com/blog/en/guest-blogger-series-prestashop-ssl-installation-troubleshooting/">acheté et installé votre certificat SSL</a>, vos clients s&rsquo;apercevront que vous vous souciez de leur sécurité grâce au <span style="font-style: italic">https</span> rassurant figurant devant le nom de votre site Web (à l&rsquo;inverse du <span style="font-style: italic">http</span> non protégé).</p>
+<p><img class="aligncenter size-large wp-image-19992" alt="mireness secure" src="http://www.prestashop.com/blog/fr/files/2015/05/mireness-secure-1024x295.jpg" width="700" height="201" /></p>
+<p><span style="font-style: italic">Le cadenas et la mention https en vert devant l&rsquo;adresse de Mirenesse indiquent que le site est sécurisé.</span></p>
+<p>- <a href="http://www.headict.co.uk/content/5-secure-payment" target="_blank"><strong>Proposez plusieurs options de paiement aux clients</strong></a>. Certains visiteurs refuseront tout bonnement de payer par carte bancaire. En offrant la possibilité de régler par le biais de PayPal, par chèque ou simplement à la livraison, vous montrez votre flexibilité et votre volonté de vous adapter aux besoins de vos clients.</p>
+<p><img class="aligncenter size-large wp-image-19991" alt="headict secure payment" src="http://www.prestashop.com/blog/fr/files/2015/05/headict-secure-payment-1024x373.jpg" width="700" height="254" /></p>
+<p><span style="font-style: italic">En plus d&rsquo;aborder directement la question de la sécurité des paiements, Headict répertorie plusieurs partenaires de paiement de confiance sur une page dédiée.</span></p>
+<h2 style="color: #252934">3. Ils vendront mes informations personnelles</h2>
+<p>À l&rsquo;heure des big data, tout le monde souhaite savoir ce qui se passera si l&rsquo;on accepte de fournir son adresse e-mail, numéro de téléphone, date de naissance ou encore sa couleur préférée. Par conséquent, l&rsquo;un des premiers éléments à ajouter et afficher clairement sur votre site est une politique de confidentialité exhaustive. Assurez-vous qu&rsquo;elle réponde aux questions suivantes :</p>
+<p>Quelles informations sont recueillies ?<br />
+Comment les informations sont-elles utilisées ?<br />
+Comment les informations sont-elles partagées ?<br />
+Quelles sont les différentes options des clients en matière de partage d&rsquo;informations ?<br />
+Comment les clients peuvent-ils accéder à leurs informations personnelles et les modifier ?<br />
+Comment les informations sont-elles protégées ?</p>
+<p>Voici un exemple à suivre :</p>
+<p><img class="aligncenter size-large wp-image-19994" alt="target" src="http://www.prestashop.com/blog/fr/files/2015/05/target-1024x768.jpg" width="700" height="525" /></p>
+<p>La <a href="http://www.target.com/spot/privacy-policy#?lnk=fnav_t_spc_2_3&amp;intc=28073%7Cnull" target="_blank">politique de confidentialité</a> de Target répond à toutes les questions.</p>
+<p>Quelles autres craintes vos clients ont-ils exprimées ? Dites-nous tout dans les commentaires ! Et restez à l&rsquo;écoute pour découvrir la deuxième partie de cet article ! Prêt à lancer un site e-commerce auquel les clients puissent se fier ? <a href="https://www.prestashop.com/fr/">Créez dès maintenant votre boutique en ligne avec PrestaShop</a>.</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/partie-1-7-craintes-clients-comment-les-apaiser/">Partie 1 : 7 craintes des clients et comment les apaiser</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/partie-1-7-craintes-clients-comment-les-apaiser/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
