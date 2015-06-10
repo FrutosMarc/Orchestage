@@ -204,17 +204,19 @@ class OrderConfirmationController extends FrontController
               $xml .='          <pays>France</pays>';
               $xml .='      </adresse_livraison>';
               $xml .='      <panier>';
+         
               $products = $order->getProducts();
                 foreach ($products as &$product)
-        	{
+        	{     
+               
                   $xml .='          <ligne_panier>';
                   $xml .='              <quantite>'.$product['product_quantity'].'</quantite>';
                   $xml .='              <code_plat>'.$product['reference'].'</code_plat>';
-                  $xml .='              <nom_plat>'.$product['description_short'].'</prix_plat>';  
-                  $xml .='              <nom_plat>'.$product['product_price'].'</prix_plat>';
-                  $xml .='              <nom_plat>'.$product['product_price'].'</prix_plat>';
+                  $xml .='              <nom_plat>'.$product['product_name'].'</nom_plat>';  
+                  $xml .='              <prix_plat>'.$product['unit_price_tax_incl'].'</prix_plat>';
                   $xml .='          </ligne_panier>';
                 }
+              $xml .='      </panier>';
               $xml .='   </commande>';
              try {
 

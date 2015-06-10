@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2015-06-10 10:56:29
+<?php /* Smarty version Smarty-3.1.19, created on 2015-06-10 17:26:21
          compiled from "D:\Site\www\presta\override\order-confirmation.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:225715577fbbda0dd93-31911653%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'a91067a38d525e9c70b3a586b4f5b7525b10ba21' => 
     array (
       0 => 'D:\\Site\\www\\presta\\override\\order-confirmation.tpl',
-      1 => 1433926452,
+      1 => 1433948266,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_5577fbbdbbf671_76833203',
   'variables' => 
   array (
     'HOOK_ORDER_CONFIRMATION' => 0,
@@ -27,8 +29,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'link' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5577fbbdbbf671_76833203',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_5577fbbdbbf671_76833203')) {function content_5577fbbdbbf671_76833203($_smarty_tpl) {?>
 
