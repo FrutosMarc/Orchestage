@@ -28,7 +28,7 @@
 		<br /><br />
 		{l s='Your check must include:' mod='cheque'}
 		<br /><br />- {l s='Payment amount.' mod='cheque'} <span class="price"><strong>{$total_to_pay}</strong></span>
-		<br /><br />- {l s='Payable to the order of' mod='cheque'} <strong>{if $chequeName}{$chequeName}{else}___________{/if}</strong>
+                <br /><br />- {l s='Payable to the order of' mod='cheque'} <strong>{if $chequeName}{$chequeName}{else}___________{/if}</strong>
 		<br /><br />- {l s='Mail to' mod='cheque'} <strong>{if $chequeAddress}{$chequeAddress}{else}___________{/if}</strong>
 		{if !isset($reference)}
 			<br /><br />- {l s='Do not forget to insert your order number #%d.' sprintf=$id_order mod='cheque'}
