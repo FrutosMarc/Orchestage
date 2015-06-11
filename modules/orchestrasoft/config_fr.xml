@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>orchestrasoft</name>
+	<displayName><![CDATA[Orchestra-Software]]></displayName>
+	<version><![CDATA[1]]></version>
+	<description><![CDATA[Ceci est un module priv&eacute; qui fonctionne avec les application Orchestra-Software]]></description>
+	<author><![CDATA[Frutos Marc]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<confirmUninstall><![CDATA[Êtes-vous sûr de vouloir désinstaller le module Orchestra-Software]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

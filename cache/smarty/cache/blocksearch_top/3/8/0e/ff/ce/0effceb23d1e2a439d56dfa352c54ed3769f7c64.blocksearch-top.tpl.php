@@ -10,17 +10,12 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     ),
   ),
   'nocache_hash' => '293755577f0ef2a37f6-18453646',
-  'variables' => 
-  array (
-    'link' => 0,
-    'search_query' => 0,
-  ),
-  'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5577f0ef354481_47707267',
+  'unifunc' => 'content_557acc9ac26fd6_85376956',
+  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5577f0ef354481_47707267')) {function content_5577f0ef354481_47707267($_smarty_tpl) {?><!-- Block search module TOP -->
+<?php if ($_valid && !is_callable('content_557acc9ac26fd6_85376956')) {function content_557acc9ac26fd6_85376956($_smarty_tpl) {?><!-- Block search module TOP -->
 <div id="search_block_top" class="col-sm-4 clearfix">
 	<form id="searchbox" method="get" action="//presta.local/index.php?controller=search" >
 		<input type="hidden" name="controller" value="search" />

@@ -10,21 +10,12 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     ),
   ),
   'nocache_hash' => '155195577f0f90751f2-65221914',
-  'variables' => 
-  array (
-    'banner_link' => 0,
-    'force_ssl' => 0,
-    'base_dir_ssl' => 0,
-    'base_dir' => 0,
-    'banner_desc' => 0,
-    'banner_img' => 0,
-  ),
-  'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5577f0f91cbe85_42776733',
+  'unifunc' => 'content_557acc9bd82c34_32502700',
+  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5577f0f91cbe85_42776733')) {function content_5577f0f91cbe85_42776733($_smarty_tpl) {?><a href="http://presta.local/" title="">
+<?php if ($_valid && !is_callable('content_557acc9bd82c34_32502700')) {function content_557acc9bd82c34_32502700($_smarty_tpl) {?><a href="http://presta.local/" title="">
 	<img class="img-responsive" src="http://presta.local/modules/blockbanner/img/sale70.png" alt="" title="" width="1170" height="65" />
 </a>
 <?php }} ?>

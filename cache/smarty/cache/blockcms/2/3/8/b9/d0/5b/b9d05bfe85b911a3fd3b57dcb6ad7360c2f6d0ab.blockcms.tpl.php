@@ -11,11 +11,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '35105577f0f251bd65-25976795',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5577f0f4657ec7_92242608',
+  'unifunc' => 'content_557acc9bbe8ec4_51672291',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5577f0f4657ec7_92242608')) {function content_5577f0f4657ec7_92242608($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_557acc9bbe8ec4_51672291')) {function content_557acc9bbe8ec4_51672291($_smarty_tpl) {?>
 	<!-- MODULE Block footer -->
 	<section class="footer-block col-xs-12 col-sm-2" id="block_various_links_footer">
 		<h4>Informations</h4>
@@ -31,8 +31,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 				</a>
 			</li>
 										<li class="item">
-					<a href="http://presta.local/index.php?controller=best-sales" title="Meilleures ventes">
-						Meilleures ventes
+					<a href="http://presta.local/index.php?controller=best-sales" title="Top sellers">
+						Top sellers
 					</a>
 				</li>
 										<li class="item">

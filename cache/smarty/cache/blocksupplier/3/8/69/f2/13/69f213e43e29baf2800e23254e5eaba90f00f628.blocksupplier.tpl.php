@@ -10,22 +10,12 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     ),
   ),
   'nocache_hash' => '29358557830b5a21c88-49765785',
-  'variables' => 
-  array (
-    'display_link_supplier' => 0,
-    'link' => 0,
-    'suppliers' => 0,
-    'text_list' => 0,
-    'text_list_nb' => 0,
-    'supplier' => 0,
-    'form_list' => 0,
-  ),
-  'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_557830b5c625f9_58489970',
+  'unifunc' => 'content_557959b9ad1fc0_42077963',
+  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_557830b5c625f9_58489970')) {function content_557830b5c625f9_58489970($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_557959b9ad1fc0_42077963')) {function content_557959b9ad1fc0_42077963($_smarty_tpl) {?>
 <!-- Block suppliers module -->
 <div id="suppliers_block_left" class="block blocksupplier">
 	<p class="title_block">
@@ -43,7 +33,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
                 					</a>
                 				</li>
 										</ul>
-										<form action="/index.php" method="get">
+										<form action="/modules/orchestrasoft/orchestrasoft_page.php" method="get">
 					<div class="form-group selector1">
 						<select class="form-control" name="supplier_list">
 							<option value="0">Tous les fournisseurs</option>

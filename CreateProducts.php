@@ -14,7 +14,7 @@ try
     $webService = new PrestaShopWebservice(PS_SHOP_PATH, PS_WS_AUTH_KEY, DEBUG);
     $opt = array('resource' => 'products');
     if (isset($_GET['Create']))
-        $xml = $webService->get(array('url' => PS_SHOP_PATH.'/api/products?schema=blank'));
+        $xml = $webService->get(array('url' => PS_SHOP_PATH.'/api/products?schema=synopsis'));
     else
         $xml = $webService->get($opt);
     $resources = $xml->children()->children();

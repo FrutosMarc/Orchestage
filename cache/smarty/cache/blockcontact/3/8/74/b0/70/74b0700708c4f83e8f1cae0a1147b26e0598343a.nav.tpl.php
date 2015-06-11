@@ -10,17 +10,12 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     ),
   ),
   'nocache_hash' => '185065577f0f95de332-63223096',
-  'variables' => 
-  array (
-    'link' => 0,
-    'telnumber' => 0,
-  ),
-  'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5577f0f968c355_36232715',
+  'unifunc' => 'content_557acc9be379f0_12869188',
+  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5577f0f968c355_36232715')) {function content_5577f0f968c355_36232715($_smarty_tpl) {?><div id="contact-link">
+<?php if ($_valid && !is_callable('content_557acc9be379f0_12869188')) {function content_557acc9be379f0_12869188($_smarty_tpl) {?><div id="contact-link">
 	<a href="http://presta.local/index.php?controller=contact" title="Contactez-nous">Contactez-nous</a>
 </div>
 	<span class="shop-phone">

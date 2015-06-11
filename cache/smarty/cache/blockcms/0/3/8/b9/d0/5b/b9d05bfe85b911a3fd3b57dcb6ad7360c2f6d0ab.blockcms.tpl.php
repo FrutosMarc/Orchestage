@@ -10,33 +10,12 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     ),
   ),
   'nocache_hash' => '35105577f0f251bd65-25976795',
-  'variables' => 
-  array (
-    'block' => 0,
-    'cms_titles' => 0,
-    'cms_key' => 0,
-    'cms_title' => 0,
-    'cms_page' => 0,
-    'link' => 0,
-    'show_price_drop' => 0,
-    'PS_CATALOG_MODE' => 0,
-    'show_new_products' => 0,
-    'show_best_sales' => 0,
-    'display_stores_footer' => 0,
-    'show_contact' => 0,
-    'contact_url' => 0,
-    'cmslinks' => 0,
-    'cmslink' => 0,
-    'show_sitemap' => 0,
-    'footer_text' => 0,
-    'display_poweredby' => 0,
-  ),
-  'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5577f0f2ac9e34_53948221',
+  'unifunc' => 'content_557959b9754be3_75144783',
+  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5577f0f2ac9e34_53948221')) {function content_5577f0f2ac9e34_53948221($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_557959b9754be3_75144783')) {function content_557959b9754be3_75144783($_smarty_tpl) {?>
 	<!-- Block CMS module -->
 			<section id="informations_block_left_1" class="block informations_block_left">
 			<p class="title_block">
@@ -71,6 +50,26 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 								</a>
 							</li>
 																						<li>
+							<a href="http://presta.local/index.php?controller=stores" title="Nos magasins">
+								Nos magasins
+							</a>
+						</li>
+									</ul>
+			</div>
+		</section>
+			<section id="informations_block_left_2" class="block informations_block_left">
+			<p class="title_block">
+				<a href="http://presta.local/index.php?id_cms_category=1&amp;controller=cms">
+					Accueil				</a>
+			</p>
+			<div class="block_content list-block">
+				<ul>
+																		<li class="bullet">
+								<a href="http://presta.local/index.php?id_cms_category=1&amp;controller=cms" title="Accueil">
+									Accueil
+								</a>
+							</li>
+																											<li>
 							<a href="http://presta.local/index.php?controller=stores" title="Nos magasins">
 								Nos magasins
 							</a>

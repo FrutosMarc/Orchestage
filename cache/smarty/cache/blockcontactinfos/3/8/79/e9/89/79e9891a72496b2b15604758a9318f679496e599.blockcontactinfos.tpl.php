@@ -10,30 +10,23 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     ),
   ),
   'nocache_hash' => '11785577f0f4931653-70256082',
-  'variables' => 
-  array (
-    'blockcontactinfos_company' => 0,
-    'blockcontactinfos_address' => 0,
-    'blockcontactinfos_phone' => 0,
-    'blockcontactinfos_email' => 0,
-  ),
-  'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5577f0f4a78807_32306061',
+  'unifunc' => 'content_557acc9bc9a403_36349247',
+  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5577f0f4a78807_32306061')) {function content_5577f0f4a78807_32306061($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_557acc9bc9a403_36349247')) {function content_557acc9bc9a403_36349247($_smarty_tpl) {?>
 <!-- MODULE Block contact infos -->
 <section id="block_contact_infos" class="footer-block col-xs-12 col-sm-4">
 	<div>
-        <h4>Informations sur votre boutique</h4>
+        <h4>Store Information</h4>
         <ul class="toggle-footer">
                         	<li>
             		<i class="icon-map-marker"></i>My Company, 42 avenue des Champs Elysées
 75000 Paris
 France            	</li>
                                     	<li>
-            		<i class="icon-phone"></i>Appelez-nous au : 
+            		<i class="icon-phone"></i>Call us now: 
             		<span>0123-456-789</span>
             	</li>
                                     	<li>
