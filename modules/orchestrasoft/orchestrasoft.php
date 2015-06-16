@@ -213,6 +213,8 @@ class orchestrasoft extends Module {
                 $retour_ws =  $client->CmdeExportCarte(array());
                 $xmlstr = $client->__getLastResponse();
                 $xmlstr = utf8_decode ($xmlstr);
+//                echo "</br></br></br></br></br>";
+                $return =$xmlstr;
 //                 $return.="<br />Reponse SOAP : ".$xmlstr."<br />";
                 // Affichage des requêtes et réponses SOAP (pour debug)
                 $xml = new XmlReader();
@@ -239,7 +241,6 @@ class orchestrasoft extends Module {
         private function ImportCategories($xml_obj,$idCateg = 2){
                 $max = sizeof($xml_obj);
                 // now we can iterate through it hooray!
-                echo "</br></br></br></br>";
                 for($i = 0; $i < $max;$i++)
                 {
                     $xml = simplexml_load_string($xml_obj[$i]);
@@ -256,13 +257,12 @@ class orchestrasoft extends Module {
                             LEFT JOIN `'._DB_PREFIX_.'category_lang` cl ON (c.`id_category` = cl.`id_category`)'.
                             'WHERE `name` = \''.$name.'\'');
                             if (isset($categ['name'])){
-                                echo "Catégorie trouvé id :" . $categ["id_category"];
                                 $found = true;
                                 $idCateg= $categ["id_category"];
-                                $return= "La catégorie existe déjà.";
+                                $return.= "La catégorie existe déjà. id :".$idCateg;
                             }
                             else {
-                                $return= "La catégorie n'existe pas. On l'ajoute";
+                                $return.= "</br>La catégorie n'existe pas. On l'ajoute";
                                 $categ = new Category(0,1,1);
                                 $categ->active=true;
                                 $categ->id_parent=$lvl;
@@ -270,32 +270,58 @@ class orchestrasoft extends Module {
                                 $categ->name= $this->l($name);
                                 $categ->link_rewrite= $this->l($link);
                                 $categ->description= $this->l($name);
-                                 if (!$found){
-                                    $categ->add();
-                                    if (isset($categ->id))
-                                    {
-                                        if ($categ->id_parent)
-                                            $idCateg= $categ->id_category;
-
-                                       $return.= "</br>".$categ->id." enregistré";
-                                    }
-                                    else
-                                       $return.= "</br>".$categ->id."non enregistré";
-                                 }
+                                $categ->add();
+                                $idCateg= $categ->id_category;
+                                $return.= "</br>".$categ->id_category." enregistré";
                             };
- //                            while($xml->read()){
-//                              // Si l'élément en cours dans la node carte est categ (catégorie) j'implémente
-//                              if ($xml->nodeType == XMLReader::ELEMENT && $xml->carte->categ = "sscateg") {
-//                                // BAM! readOuterXML yanks the xml string out (including the element we matched)
-//                                // so that we can convert it into a simplexml object for easy iterating
-//                                $xml_Subobj[] = new SimpleXMLElement($Subxml->readOuterXML());
-//                                $return .= $this->ImportCategories($xml_Subobj,$idCateg);
-//                              }
-//                            }                         
-                        }
-                            
                 }
+                if (isset($idCateg)){
+                    $return.= $this->ImportSsCategories($xml,$idCateg);
+                }
+                            
+            }
             return $return;
         }
-    
+        /**
+         * Importation des sous-catégories associées à une catégorie
+         * @param type $xml
+         * @param type $idCateg
+         * @return string
+         */
+        private function ImportSsCategories($xml,$idCateg = 2){
+            foreach ($xml->carte->categ->sscateg as $ssCateg) {
+                            if (isset($ssCateg->nom)){
+                                    $name = $ssCateg->nom;
+                                    $link = $ssCateg->nom;
+                                    $link = str_replace($link, " ","-");
+                                    $lvl = $idCateg; // catégorie
+                                    $categ = Db::getInstance()->getRow('
+                                    SELECT c.*, cl.*
+                                    FROM `'._DB_PREFIX_.'category` c
+                                    LEFT JOIN `'._DB_PREFIX_.'category_lang` cl ON (c.`id_category` = cl.`id_category`)'.
+                                    'WHERE `name` = \''.$name.'\'');
+                                    if (isset($categ['name'])){
+                                        $found = true;
+                                        $return.= "</br>La sous-catégorie existe déjà id :" . $categ["id_category"];
+                                    }
+                                    else {
+                                        
+                                        $return.= "</br>La sous-catégorie n'existe pas. On l'ajoute";
+                                        $categ = new Category(0,1,1);
+                                        $categ->active=true;
+                                        $categ->id_parent=$lvl;
+                                        $categ->is_root_category = 0;
+                                        $categ->name= $this->l($name);
+                                        $categ->link_rewrite= $this->l($link);
+                                        $categ->description= $this->l($name);
+                                        $categ->add();
+                                        $return.= "</br>".$categ->id_category." enregistré";
+
+                                    }
+                            }
+            }
+            return $return;
+        }
+        
+                                        
 }
