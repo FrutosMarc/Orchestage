@@ -193,10 +193,14 @@ class orchestrasoft extends Module {
 
         return $helper->generateForm($fields_form);
     }
- 	public function ImportProduct()
+
+    /**
+     * Module permettant d'importer les produits
+     * @return type
+     */
+    public function ImportProduct()
 	{
-            $return ='';
-            ini_set("soap.wsdl_cache_enabled", 0);
+           ini_set("soap.wsdl_cache_enabled", 0);
            try {
                 // Instanciation du client SOAP
                 $client = new SoapClient("http://www.orchestra-cloud.com:20000/WEBSERVICE_WEB/awws/WebService.awws?wsdl",  array(
@@ -207,10 +211,24 @@ class orchestrasoft extends Module {
                   ) 
                 );
                 $retour_ws =  $client->CmdeExportCarte(array());
+                $xmlstr = $client->__getLastResponse();
+                $xmlstr = utf8_decode ($xmlstr);
+//                 $return.="<br />Reponse SOAP : ".$xmlstr."<br />";
                 // Affichage des requêtes et réponses SOAP (pour debug)
-                $return = "<br />Requete SOAP : ".htmlspecialchars($client->__getLastRequest())."<br />";
-                $return.="<br />Reponse SOAP : ".htmlspecialchars($client->__getLastResponse())."<br />";    
+                $xml = new XmlReader();
+                $xml->xml($xmlstr);
+                while($xml->read()){
+                  // Si l'élément en cours dans la node carte est categ (catégorie) j'implémente
+                  if ($xml->nodeType == XMLReader::ELEMENT && $xml->carte = "categ") {
+                    // BAM! readOuterXML yanks the xml string out (including the element we matched)
+                    // so that we can convert it into a simplexml object for easy iterating
+                    $xml_obj[] = new SimpleXMLElement($xml->readOuterXML());
+                    $return .= $this->ImportCategories($xml_obj);
+                  }
+                }
+                
                 $return = $this->displayConfirmation($return);
+                
             }
             catch (Exception $e) {
                 //pas bon
@@ -218,6 +236,66 @@ class orchestrasoft extends Module {
             };
             return $return;
         }
-    
+        private function ImportCategories($xml_obj,$idCateg = 2){
+                $max = sizeof($xml_obj);
+                // now we can iterate through it hooray!
+                echo "</br></br></br></br>";
+                for($i = 0; $i < $max;$i++)
+                {
+                    $xml = simplexml_load_string($xml_obj[$i]);
+                    
+                    $found = false;
+                    // Vérifie que la node du nom de catégori existe sinon on passe au suivant
+                      if (isset($xml->carte->categ->nom)){
+                            $name = $xml->carte->categ->nom;
+                            $link = $xml->carte->categ['nom'];
+                            $lvl = 2; // Accueil
+                            $categ = Db::getInstance()->getRow('
+                            SELECT c.*, cl.*
+                            FROM `'._DB_PREFIX_.'category` c
+                            LEFT JOIN `'._DB_PREFIX_.'category_lang` cl ON (c.`id_category` = cl.`id_category`)'.
+                            'WHERE `name` = \''.$name.'\'');
+                            if (isset($categ['name'])){
+                                echo "Catégorie trouvé id :" . $categ["id_category"];
+                                $found = true;
+                                $idCateg= $categ["id_category"];
+                                $return= "La catégorie existe déjà.";
+                            }
+                            else {
+                                $return= "La catégorie n'existe pas. On l'ajoute";
+                                $categ = new Category(0,1,1);
+                                $categ->active=true;
+                                $categ->id_parent=$lvl;
+                                $categ->is_root_category = 0;
+                                $categ->name= $this->l($name);
+                                $categ->link_rewrite= $this->l($link);
+                                $categ->description= $this->l($name);
+                                 if (!$found){
+                                    $categ->add();
+                                    if (isset($categ->id))
+                                    {
+                                        if ($categ->id_parent)
+                                            $idCateg= $categ->id_category;
+
+                                       $return.= "</br>".$categ->id." enregistré";
+                                    }
+                                    else
+                                       $return.= "</br>".$categ->id."non enregistré";
+                                 }
+                            };
+ //                            while($xml->read()){
+//                              // Si l'élément en cours dans la node carte est categ (catégorie) j'implémente
+//                              if ($xml->nodeType == XMLReader::ELEMENT && $xml->carte->categ = "sscateg") {
+//                                // BAM! readOuterXML yanks the xml string out (including the element we matched)
+//                                // so that we can convert it into a simplexml object for easy iterating
+//                                $xml_Subobj[] = new SimpleXMLElement($Subxml->readOuterXML());
+//                                $return .= $this->ImportCategories($xml_Subobj,$idCateg);
+//                              }
+//                            }                         
+                        }
+                            
+                }
+            return $return;
+        }
     
 }
